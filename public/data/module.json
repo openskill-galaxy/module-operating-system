@@ -1,0 +1,42 @@
+{
+  "id": "mod-operating-system",
+  "slug": "module-operating-system",
+  "title": "操作系统学习与题库训练",
+  "subtitle": "面向计算机专业408考研后端开发系统编程",
+  "description": "面向计算机专业学生软件工程学生408考研后端开发嵌入式开发和系统编程学习者系统学习操作系统概念进程线程调度同步互斥死锁内存管理虚拟内存文件系统IO管理和Linux基础的静态学习模块。",
+  "version": "2.0.0",
+  "license": "MIT",
+  "authors": [
+    "OpenSkill Community"
+  ],
+  "tags": [
+    "操作系统",
+    "408",
+    "进程",
+    "线程",
+    "调度",
+    "死锁",
+    "虚拟内存",
+    "文件系统",
+    "Linux"
+  ],
+  "estimatedHours": 170,
+  "difficulty": "intermediate",
+  "updatedAt": "2026-07-02T12:00:00.000Z",
+  "coverEmoji": "🐧",
+  "repoUrl": "https://github.com/openskill-galaxy/module-operating-system",
+  "portalUrl": "https://openskill-galaxy.github.io/",
+  "status": "stable",
+  "stats": {
+    "courses": 14,
+    "lessons": 108,
+    "knowledgePoints": 711,
+    "questions": 3700,
+    "cases": 260,
+    "exams": 100,
+    "routes": 35,
+    "glossary": 360,
+    "faqs": 210,
+    "tags": 782
+  }
+}

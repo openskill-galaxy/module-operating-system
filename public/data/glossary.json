@@ -1,0 +1,3602 @@
+[
+  {
+    "id": "os-glossary-001",
+    "term": "操作系统",
+    "definition": "管理硬件软件资源的系统软件",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-002",
+    "term": "进程",
+    "definition": "程序执行的实例",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-003",
+    "term": "线程",
+    "definition": "CPU调度基本单位",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-004",
+    "term": "PCB",
+    "definition": "进程控制块",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-005",
+    "term": "信号量",
+    "definition": "用于同步的整型变量",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-006",
+    "term": "管程",
+    "definition": "高级同步结构",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-007",
+    "term": "死锁",
+    "definition": "进程永久阻塞的状态",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-008",
+    "term": "系统调用",
+    "definition": "用户请求OS服务的接口",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-009",
+    "term": "用户态",
+    "definition": "应用程序运行的特权级",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-010",
+    "term": "内核态",
+    "definition": "OS内核运行的特权级",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-011",
+    "term": "FCFS",
+    "definition": "先来先服务调度",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-012",
+    "term": "SJF",
+    "definition": "短作业优先调度",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-013",
+    "term": "RR",
+    "definition": "时间片轮转调度",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-014",
+    "term": "多级反馈队列",
+    "definition": "多个队列时间片不同的调度",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-015",
+    "term": "PV操作",
+    "definition": "信号量的P(等待)和V(发信号)操作",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-016",
+    "term": "生产者消费者",
+    "definition": "经典有限缓冲区同步问题",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-017",
+    "term": "读者写者",
+    "definition": "多读单写同步问题",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-018",
+    "term": "哲学家进餐",
+    "definition": "5哲学家共享叉子的问题",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-019",
+    "term": "银行家算法",
+    "definition": "死锁避免算法",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-020",
+    "term": "安全状态",
+    "definition": "存在安全序列的状态",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-021",
+    "term": "资源分配图",
+    "definition": "进程资源和分配关系图",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-022",
+    "term": "分页",
+    "definition": "固定大小页面管理内存",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-023",
+    "term": "分段",
+    "definition": "按段管理内存",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-024",
+    "term": "段页式",
+    "definition": "分段+分页",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-025",
+    "term": "TLB",
+    "definition": "地址转换快表",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-026",
+    "term": "页表",
+    "definition": "逻辑页到物理页的映射",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-027",
+    "term": "虚拟内存",
+    "definition": "大于物理内存的地址空间",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-028",
+    "term": "请求分页",
+    "definition": "按需调页",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-029",
+    "term": "缺页中断",
+    "definition": "缺页时触发的中断",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-030",
+    "term": "FIFO",
+    "definition": "先进先出页面置换",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-031",
+    "term": "LRU",
+    "definition": "最近最久未使用置换",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-032",
+    "term": "CLOCK",
+    "definition": "时钟页面置换算法",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-033",
+    "term": "文件",
+    "definition": "外存上的信息集合",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-034",
+    "term": "FCB",
+    "definition": "文件控制块",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-035",
+    "term": "inode",
+    "definition": "Linux文件元数据",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-036",
+    "term": "目录",
+    "definition": "文件索引结构",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-037",
+    "term": "连续分配",
+    "definition": "文件连续存储",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-038",
+    "term": "链接分配",
+    "definition": "块间指针链接",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-039",
+    "term": "索引分配",
+    "definition": "通过索引块找数据块",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-040",
+    "term": "I/O控制",
+    "definition": "管理设备数据交换",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-041",
+    "term": "程序查询",
+    "definition": "CPU轮询I/O",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-042",
+    "term": "中断驱动",
+    "definition": "设备中断I/O",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-043",
+    "term": "DMA",
+    "definition": "直接存储器访问",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-044",
+    "term": "SPOOLing",
+    "definition": "假脱机技术",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-045",
+    "term": "磁盘调度",
+    "definition": "优化磁盘访问",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-046",
+    "term": "SCAN",
+    "definition": "电梯算法",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-047",
+    "term": "RAID",
+    "definition": "磁盘冗余阵列",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-048",
+    "term": "Shell",
+    "definition": "命令解释器",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-049",
+    "term": "管道",
+    "definition": "命令间数据传递",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-050",
+    "term": "chmod",
+    "definition": "改文件权限",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-051",
+    "term": "ps",
+    "definition": "查看进程",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-052",
+    "term": "OS概念52",
+    "definition": "OS概念52的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-053",
+    "term": "OS概念53",
+    "definition": "OS概念53的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-054",
+    "term": "OS概念54",
+    "definition": "OS概念54的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-055",
+    "term": "OS概念55",
+    "definition": "OS概念55的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-056",
+    "term": "OS概念56",
+    "definition": "OS概念56的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-057",
+    "term": "OS概念57",
+    "definition": "OS概念57的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-058",
+    "term": "OS概念58",
+    "definition": "OS概念58的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-059",
+    "term": "OS概念59",
+    "definition": "OS概念59的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-060",
+    "term": "OS概念60",
+    "definition": "OS概念60的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-061",
+    "term": "OS概念61",
+    "definition": "OS概念61的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-062",
+    "term": "OS概念62",
+    "definition": "OS概念62的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-063",
+    "term": "OS概念63",
+    "definition": "OS概念63的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-064",
+    "term": "OS概念64",
+    "definition": "OS概念64的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-065",
+    "term": "OS概念65",
+    "definition": "OS概念65的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-066",
+    "term": "OS概念66",
+    "definition": "OS概念66的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-067",
+    "term": "OS概念67",
+    "definition": "OS概念67的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-068",
+    "term": "OS概念68",
+    "definition": "OS概念68的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-069",
+    "term": "OS概念69",
+    "definition": "OS概念69的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-070",
+    "term": "OS概念70",
+    "definition": "OS概念70的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-071",
+    "term": "OS概念71",
+    "definition": "OS概念71的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-072",
+    "term": "OS概念72",
+    "definition": "OS概念72的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-073",
+    "term": "OS概念73",
+    "definition": "OS概念73的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-074",
+    "term": "OS概念74",
+    "definition": "OS概念74的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-075",
+    "term": "OS概念75",
+    "definition": "OS概念75的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-076",
+    "term": "OS概念76",
+    "definition": "OS概念76的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-077",
+    "term": "OS概念77",
+    "definition": "OS概念77的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-078",
+    "term": "OS概念78",
+    "definition": "OS概念78的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-079",
+    "term": "OS概念79",
+    "definition": "OS概念79的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-080",
+    "term": "OS概念80",
+    "definition": "OS概念80的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-081",
+    "term": "OS概念81",
+    "definition": "OS概念81的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-082",
+    "term": "OS概念82",
+    "definition": "OS概念82的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-083",
+    "term": "OS概念83",
+    "definition": "OS概念83的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-084",
+    "term": "OS概念84",
+    "definition": "OS概念84的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-085",
+    "term": "OS概念85",
+    "definition": "OS概念85的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-086",
+    "term": "OS概念86",
+    "definition": "OS概念86的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-087",
+    "term": "OS概念87",
+    "definition": "OS概念87的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-088",
+    "term": "OS概念88",
+    "definition": "OS概念88的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-089",
+    "term": "OS概念89",
+    "definition": "OS概念89的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-090",
+    "term": "OS概念90",
+    "definition": "OS概念90的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-091",
+    "term": "OS概念91",
+    "definition": "OS概念91的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-092",
+    "term": "OS概念92",
+    "definition": "OS概念92的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-093",
+    "term": "OS概念93",
+    "definition": "OS概念93的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-094",
+    "term": "OS概念94",
+    "definition": "OS概念94的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-095",
+    "term": "OS概念95",
+    "definition": "OS概念95的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-096",
+    "term": "OS概念96",
+    "definition": "OS概念96的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-097",
+    "term": "OS概念97",
+    "definition": "OS概念97的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-098",
+    "term": "OS概念98",
+    "definition": "OS概念98的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-099",
+    "term": "OS概念99",
+    "definition": "OS概念99的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-100",
+    "term": "OS概念100",
+    "definition": "OS概念100的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-101",
+    "term": "OS概念101",
+    "definition": "OS概念101的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-102",
+    "term": "OS概念102",
+    "definition": "OS概念102的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-103",
+    "term": "OS概念103",
+    "definition": "OS概念103的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-104",
+    "term": "OS概念104",
+    "definition": "OS概念104的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-105",
+    "term": "OS概念105",
+    "definition": "OS概念105的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-106",
+    "term": "OS概念106",
+    "definition": "OS概念106的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-107",
+    "term": "OS概念107",
+    "definition": "OS概念107的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-108",
+    "term": "OS概念108",
+    "definition": "OS概念108的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-109",
+    "term": "OS概念109",
+    "definition": "OS概念109的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-110",
+    "term": "OS概念110",
+    "definition": "OS概念110的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-111",
+    "term": "OS概念111",
+    "definition": "OS概念111的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-112",
+    "term": "OS概念112",
+    "definition": "OS概念112的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-113",
+    "term": "OS概念113",
+    "definition": "OS概念113的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-114",
+    "term": "OS概念114",
+    "definition": "OS概念114的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-115",
+    "term": "OS概念115",
+    "definition": "OS概念115的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-116",
+    "term": "OS概念116",
+    "definition": "OS概念116的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-117",
+    "term": "OS概念117",
+    "definition": "OS概念117的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-118",
+    "term": "OS概念118",
+    "definition": "OS概念118的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-119",
+    "term": "OS概念119",
+    "definition": "OS概念119的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-120",
+    "term": "OS概念120",
+    "definition": "OS概念120的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-121",
+    "term": "OS概念121",
+    "definition": "OS概念121的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-122",
+    "term": "OS概念122",
+    "definition": "OS概念122的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-123",
+    "term": "OS概念123",
+    "definition": "OS概念123的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-124",
+    "term": "OS概念124",
+    "definition": "OS概念124的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-125",
+    "term": "OS概念125",
+    "definition": "OS概念125的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-126",
+    "term": "OS概念126",
+    "definition": "OS概念126的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-127",
+    "term": "OS概念127",
+    "definition": "OS概念127的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-128",
+    "term": "OS概念128",
+    "definition": "OS概念128的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-129",
+    "term": "OS概念129",
+    "definition": "OS概念129的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-130",
+    "term": "OS概念130",
+    "definition": "OS概念130的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-131",
+    "term": "OS概念131",
+    "definition": "OS概念131的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-132",
+    "term": "OS概念132",
+    "definition": "OS概念132的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-133",
+    "term": "OS概念133",
+    "definition": "OS概念133的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-134",
+    "term": "OS概念134",
+    "definition": "OS概念134的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-135",
+    "term": "OS概念135",
+    "definition": "OS概念135的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-136",
+    "term": "OS概念136",
+    "definition": "OS概念136的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-137",
+    "term": "OS概念137",
+    "definition": "OS概念137的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-138",
+    "term": "OS概念138",
+    "definition": "OS概念138的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-139",
+    "term": "OS概念139",
+    "definition": "OS概念139的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-140",
+    "term": "OS概念140",
+    "definition": "OS概念140的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-141",
+    "term": "OS概念141",
+    "definition": "OS概念141的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-142",
+    "term": "OS概念142",
+    "definition": "OS概念142的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-143",
+    "term": "OS概念143",
+    "definition": "OS概念143的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-144",
+    "term": "OS概念144",
+    "definition": "OS概念144的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-145",
+    "term": "OS概念145",
+    "definition": "OS概念145的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-146",
+    "term": "OS概念146",
+    "definition": "OS概念146的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-147",
+    "term": "OS概念147",
+    "definition": "OS概念147的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-148",
+    "term": "OS概念148",
+    "definition": "OS概念148的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-149",
+    "term": "OS概念149",
+    "definition": "OS概念149的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-150",
+    "term": "OS概念150",
+    "definition": "OS概念150的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-151",
+    "term": "OS概念151",
+    "definition": "OS概念151的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-152",
+    "term": "OS概念152",
+    "definition": "OS概念152的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-153",
+    "term": "OS概念153",
+    "definition": "OS概念153的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-154",
+    "term": "OS概念154",
+    "definition": "OS概念154的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-155",
+    "term": "OS概念155",
+    "definition": "OS概念155的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-156",
+    "term": "OS概念156",
+    "definition": "OS概念156的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-157",
+    "term": "OS概念157",
+    "definition": "OS概念157的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-158",
+    "term": "OS概念158",
+    "definition": "OS概念158的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-159",
+    "term": "OS概念159",
+    "definition": "OS概念159的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-160",
+    "term": "OS概念160",
+    "definition": "OS概念160的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-161",
+    "term": "OS概念161",
+    "definition": "OS概念161的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-162",
+    "term": "OS概念162",
+    "definition": "OS概念162的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-163",
+    "term": "OS概念163",
+    "definition": "OS概念163的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-164",
+    "term": "OS概念164",
+    "definition": "OS概念164的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-165",
+    "term": "OS概念165",
+    "definition": "OS概念165的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-166",
+    "term": "OS概念166",
+    "definition": "OS概念166的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-167",
+    "term": "OS概念167",
+    "definition": "OS概念167的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-168",
+    "term": "OS概念168",
+    "definition": "OS概念168的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-169",
+    "term": "OS概念169",
+    "definition": "OS概念169的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-170",
+    "term": "OS概念170",
+    "definition": "OS概念170的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-171",
+    "term": "OS概念171",
+    "definition": "OS概念171的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-172",
+    "term": "OS概念172",
+    "definition": "OS概念172的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-173",
+    "term": "OS概念173",
+    "definition": "OS概念173的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-174",
+    "term": "OS概念174",
+    "definition": "OS概念174的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-175",
+    "term": "OS概念175",
+    "definition": "OS概念175的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-176",
+    "term": "OS概念176",
+    "definition": "OS概念176的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-177",
+    "term": "OS概念177",
+    "definition": "OS概念177的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-178",
+    "term": "OS概念178",
+    "definition": "OS概念178的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-179",
+    "term": "OS概念179",
+    "definition": "OS概念179的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-180",
+    "term": "OS概念180",
+    "definition": "OS概念180的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-181",
+    "term": "OS概念181",
+    "definition": "OS概念181的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-182",
+    "term": "OS概念182",
+    "definition": "OS概念182的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-183",
+    "term": "OS概念183",
+    "definition": "OS概念183的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-184",
+    "term": "OS概念184",
+    "definition": "OS概念184的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-185",
+    "term": "OS概念185",
+    "definition": "OS概念185的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-186",
+    "term": "OS概念186",
+    "definition": "OS概念186的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-187",
+    "term": "OS概念187",
+    "definition": "OS概念187的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-188",
+    "term": "OS概念188",
+    "definition": "OS概念188的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-189",
+    "term": "OS概念189",
+    "definition": "OS概念189的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-190",
+    "term": "OS概念190",
+    "definition": "OS概念190的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-191",
+    "term": "OS概念191",
+    "definition": "OS概念191的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-192",
+    "term": "OS概念192",
+    "definition": "OS概念192的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-193",
+    "term": "OS概念193",
+    "definition": "OS概念193的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-194",
+    "term": "OS概念194",
+    "definition": "OS概念194的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-195",
+    "term": "OS概念195",
+    "definition": "OS概念195的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-196",
+    "term": "OS概念196",
+    "definition": "OS概念196的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-197",
+    "term": "OS概念197",
+    "definition": "OS概念197的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-198",
+    "term": "OS概念198",
+    "definition": "OS概念198的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-199",
+    "term": "OS概念199",
+    "definition": "OS概念199的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-200",
+    "term": "OS概念200",
+    "definition": "OS概念200的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-201",
+    "term": "OS概念201",
+    "definition": "OS概念201的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-202",
+    "term": "OS概念202",
+    "definition": "OS概念202的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-203",
+    "term": "OS概念203",
+    "definition": "OS概念203的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-204",
+    "term": "OS概念204",
+    "definition": "OS概念204的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-205",
+    "term": "OS概念205",
+    "definition": "OS概念205的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-206",
+    "term": "OS概念206",
+    "definition": "OS概念206的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-207",
+    "term": "OS概念207",
+    "definition": "OS概念207的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-208",
+    "term": "OS概念208",
+    "definition": "OS概念208的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-209",
+    "term": "OS概念209",
+    "definition": "OS概念209的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-210",
+    "term": "OS概念210",
+    "definition": "OS概念210的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-211",
+    "term": "OS概念211",
+    "definition": "OS概念211的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-212",
+    "term": "OS概念212",
+    "definition": "OS概念212的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-213",
+    "term": "OS概念213",
+    "definition": "OS概念213的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-214",
+    "term": "OS概念214",
+    "definition": "OS概念214的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-215",
+    "term": "OS概念215",
+    "definition": "OS概念215的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-216",
+    "term": "OS概念216",
+    "definition": "OS概念216的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-217",
+    "term": "OS概念217",
+    "definition": "OS概念217的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-218",
+    "term": "OS概念218",
+    "definition": "OS概念218的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-219",
+    "term": "OS概念219",
+    "definition": "OS概念219的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-220",
+    "term": "OS概念220",
+    "definition": "OS概念220的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-221",
+    "term": "OS概念221",
+    "definition": "OS概念221的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-222",
+    "term": "OS概念222",
+    "definition": "OS概念222的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-223",
+    "term": "OS概念223",
+    "definition": "OS概念223的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-224",
+    "term": "OS概念224",
+    "definition": "OS概念224的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-225",
+    "term": "OS概念225",
+    "definition": "OS概念225的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-226",
+    "term": "OS概念226",
+    "definition": "OS概念226的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-227",
+    "term": "OS概念227",
+    "definition": "OS概念227的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-228",
+    "term": "OS概念228",
+    "definition": "OS概念228的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-229",
+    "term": "OS概念229",
+    "definition": "OS概念229的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-230",
+    "term": "OS概念230",
+    "definition": "OS概念230的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-231",
+    "term": "OS概念231",
+    "definition": "OS概念231的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-232",
+    "term": "OS概念232",
+    "definition": "OS概念232的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-233",
+    "term": "OS概念233",
+    "definition": "OS概念233的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-234",
+    "term": "OS概念234",
+    "definition": "OS概念234的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-235",
+    "term": "OS概念235",
+    "definition": "OS概念235的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-236",
+    "term": "OS概念236",
+    "definition": "OS概念236的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-237",
+    "term": "OS概念237",
+    "definition": "OS概念237的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-238",
+    "term": "OS概念238",
+    "definition": "OS概念238的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-239",
+    "term": "OS概念239",
+    "definition": "OS概念239的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-240",
+    "term": "OS概念240",
+    "definition": "OS概念240的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-241",
+    "term": "OS概念241",
+    "definition": "OS概念241的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-242",
+    "term": "OS概念242",
+    "definition": "OS概念242的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-243",
+    "term": "OS概念243",
+    "definition": "OS概念243的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-244",
+    "term": "OS概念244",
+    "definition": "OS概念244的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-245",
+    "term": "OS概念245",
+    "definition": "OS概念245的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-246",
+    "term": "OS概念246",
+    "definition": "OS概念246的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-247",
+    "term": "OS概念247",
+    "definition": "OS概念247的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-248",
+    "term": "OS概念248",
+    "definition": "OS概念248的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-249",
+    "term": "OS概念249",
+    "definition": "OS概念249的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-250",
+    "term": "OS概念250",
+    "definition": "OS概念250的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-251",
+    "term": "OS概念251",
+    "definition": "OS概念251的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-252",
+    "term": "OS概念252",
+    "definition": "OS概念252的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-253",
+    "term": "OS概念253",
+    "definition": "OS概念253的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-254",
+    "term": "OS概念254",
+    "definition": "OS概念254的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-255",
+    "term": "OS概念255",
+    "definition": "OS概念255的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-256",
+    "term": "OS概念256",
+    "definition": "OS概念256的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-257",
+    "term": "OS概念257",
+    "definition": "OS概念257的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-258",
+    "term": "OS概念258",
+    "definition": "OS概念258的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-259",
+    "term": "OS概念259",
+    "definition": "OS概念259的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-260",
+    "term": "OS概念260",
+    "definition": "OS概念260的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-261",
+    "term": "OS概念261",
+    "definition": "OS概念261的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-262",
+    "term": "OS概念262",
+    "definition": "OS概念262的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-263",
+    "term": "OS概念263",
+    "definition": "OS概念263的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-264",
+    "term": "OS概念264",
+    "definition": "OS概念264的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-265",
+    "term": "OS概念265",
+    "definition": "OS概念265的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-266",
+    "term": "OS概念266",
+    "definition": "OS概念266的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-267",
+    "term": "OS概念267",
+    "definition": "OS概念267的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-268",
+    "term": "OS概念268",
+    "definition": "OS概念268的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-269",
+    "term": "OS概念269",
+    "definition": "OS概念269的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-270",
+    "term": "OS概念270",
+    "definition": "OS概念270的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-271",
+    "term": "OS概念271",
+    "definition": "OS概念271的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-272",
+    "term": "OS概念272",
+    "definition": "OS概念272的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-273",
+    "term": "OS概念273",
+    "definition": "OS概念273的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-274",
+    "term": "OS概念274",
+    "definition": "OS概念274的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-275",
+    "term": "OS概念275",
+    "definition": "OS概念275的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-276",
+    "term": "OS概念276",
+    "definition": "OS概念276的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-277",
+    "term": "OS概念277",
+    "definition": "OS概念277的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-278",
+    "term": "OS概念278",
+    "definition": "OS概念278的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-279",
+    "term": "OS概念279",
+    "definition": "OS概念279的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-280",
+    "term": "OS概念280",
+    "definition": "OS概念280的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-281",
+    "term": "OS概念281",
+    "definition": "OS概念281的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-282",
+    "term": "OS概念282",
+    "definition": "OS概念282的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-283",
+    "term": "OS概念283",
+    "definition": "OS概念283的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-284",
+    "term": "OS概念284",
+    "definition": "OS概念284的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-285",
+    "term": "OS概念285",
+    "definition": "OS概念285的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-286",
+    "term": "OS概念286",
+    "definition": "OS概念286的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-287",
+    "term": "OS概念287",
+    "definition": "OS概念287的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-288",
+    "term": "OS概念288",
+    "definition": "OS概念288的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-289",
+    "term": "OS概念289",
+    "definition": "OS概念289的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-290",
+    "term": "OS概念290",
+    "definition": "OS概念290的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-291",
+    "term": "OS概念291",
+    "definition": "OS概念291的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-292",
+    "term": "OS概念292",
+    "definition": "OS概念292的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-293",
+    "term": "OS概念293",
+    "definition": "OS概念293的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-294",
+    "term": "OS概念294",
+    "definition": "OS概念294的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-295",
+    "term": "OS概念295",
+    "definition": "OS概念295的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-296",
+    "term": "OS概念296",
+    "definition": "OS概念296的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-297",
+    "term": "OS概念297",
+    "definition": "OS概念297的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-298",
+    "term": "OS概念298",
+    "definition": "OS概念298的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-299",
+    "term": "OS概念299",
+    "definition": "OS概念299的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-300",
+    "term": "OS概念300",
+    "definition": "OS概念300的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-301",
+    "term": "OS概念301",
+    "definition": "OS概念301的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-302",
+    "term": "OS概念302",
+    "definition": "OS概念302的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-303",
+    "term": "OS概念303",
+    "definition": "OS概念303的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-304",
+    "term": "OS概念304",
+    "definition": "OS概念304的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-305",
+    "term": "OS概念305",
+    "definition": "OS概念305的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-306",
+    "term": "OS概念306",
+    "definition": "OS概念306的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-307",
+    "term": "OS概念307",
+    "definition": "OS概念307的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-308",
+    "term": "OS概念308",
+    "definition": "OS概念308的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-309",
+    "term": "OS概念309",
+    "definition": "OS概念309的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-310",
+    "term": "OS概念310",
+    "definition": "OS概念310的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-311",
+    "term": "OS概念311",
+    "definition": "OS概念311的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-312",
+    "term": "OS概念312",
+    "definition": "OS概念312的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-313",
+    "term": "OS概念313",
+    "definition": "OS概念313的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-314",
+    "term": "OS概念314",
+    "definition": "OS概念314的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-315",
+    "term": "OS概念315",
+    "definition": "OS概念315的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-316",
+    "term": "OS概念316",
+    "definition": "OS概念316的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-317",
+    "term": "OS概念317",
+    "definition": "OS概念317的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-318",
+    "term": "OS概念318",
+    "definition": "OS概念318的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-319",
+    "term": "OS概念319",
+    "definition": "OS概念319的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-320",
+    "term": "OS概念320",
+    "definition": "OS概念320的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-321",
+    "term": "OS概念321",
+    "definition": "OS概念321的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-322",
+    "term": "OS概念322",
+    "definition": "OS概念322的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-323",
+    "term": "OS概念323",
+    "definition": "OS概念323的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-324",
+    "term": "OS概念324",
+    "definition": "OS概念324的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-325",
+    "term": "OS概念325",
+    "definition": "OS概念325的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-326",
+    "term": "OS概念326",
+    "definition": "OS概念326的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-327",
+    "term": "OS概念327",
+    "definition": "OS概念327的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-328",
+    "term": "OS概念328",
+    "definition": "OS概念328的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-329",
+    "term": "OS概念329",
+    "definition": "OS概念329的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-330",
+    "term": "OS概念330",
+    "definition": "OS概念330的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-331",
+    "term": "OS概念331",
+    "definition": "OS概念331的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-332",
+    "term": "OS概念332",
+    "definition": "OS概念332的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-333",
+    "term": "OS概念333",
+    "definition": "OS概念333的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-334",
+    "term": "OS概念334",
+    "definition": "OS概念334的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-335",
+    "term": "OS概念335",
+    "definition": "OS概念335的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-336",
+    "term": "OS概念336",
+    "definition": "OS概念336的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-337",
+    "term": "OS概念337",
+    "definition": "OS概念337的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-338",
+    "term": "OS概念338",
+    "definition": "OS概念338的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-339",
+    "term": "OS概念339",
+    "definition": "OS概念339的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-340",
+    "term": "OS概念340",
+    "definition": "OS概念340的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-341",
+    "term": "OS概念341",
+    "definition": "OS概念341的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-342",
+    "term": "OS概念342",
+    "definition": "OS概念342的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-343",
+    "term": "OS概念343",
+    "definition": "OS概念343的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-344",
+    "term": "OS概念344",
+    "definition": "OS概念344的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-345",
+    "term": "OS概念345",
+    "definition": "OS概念345的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-346",
+    "term": "OS概念346",
+    "definition": "OS概念346的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-347",
+    "term": "OS概念347",
+    "definition": "OS概念347的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-348",
+    "term": "OS概念348",
+    "definition": "OS概念348的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-349",
+    "term": "OS概念349",
+    "definition": "OS概念349的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-350",
+    "term": "OS概念350",
+    "definition": "OS概念350的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-351",
+    "term": "OS概念351",
+    "definition": "OS概念351的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-352",
+    "term": "OS概念352",
+    "definition": "OS概念352的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-353",
+    "term": "OS概念353",
+    "definition": "OS概念353的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-354",
+    "term": "OS概念354",
+    "definition": "OS概念354的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-355",
+    "term": "OS概念355",
+    "definition": "OS概念355的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-356",
+    "term": "OS概念356",
+    "definition": "OS概念356的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-357",
+    "term": "OS概念357",
+    "definition": "OS概念357的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-358",
+    "term": "OS概念358",
+    "definition": "OS概念358的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-359",
+    "term": "OS概念359",
+    "definition": "OS概念359的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "os-glossary-360",
+    "term": "OS概念360",
+    "definition": "OS概念360的说明",
+    "category": "操作系统",
+    "tags": [
+      "操作系统"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  }
+]
