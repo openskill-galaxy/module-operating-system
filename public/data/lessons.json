@@ -25,7 +25,12 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 操作系统定义与功能\n\n操作系统定义与功能的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了操作系统定义与功能的核心知识。",
+    "knowledgePoints": [
+      "os-kp-001",
+      "os-kp-002"
+    ]
   },
   {
     "id": "os-lesson-002",
@@ -52,7 +57,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 操作系统发展历史\n\n操作系统发展历史的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了操作系统发展历史的核心知识。",
+    "knowledgePoints": [
+      "os-kp-003"
+    ]
   },
   {
     "id": "os-lesson-003",
@@ -79,7 +88,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 操作系统类型\n\n操作系统类型的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了操作系统类型的核心知识。",
+    "knowledgePoints": [
+      "os-kp-004"
+    ]
   },
   {
     "id": "os-lesson-004",
@@ -106,7 +119,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 学习操作系统的方法\n\n学习操作系统的方法的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了学习操作系统的方法的核心知识。",
+    "knowledgePoints": [
+      "os-kp-005"
+    ]
   },
   {
     "id": "os-lesson-005",
@@ -134,7 +151,12 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 操作系统结构\n\n操作系统结构的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了操作系统结构的核心知识。",
+    "knowledgePoints": [
+      "os-kp-006",
+      "os-kp-007"
+    ]
   },
   {
     "id": "os-lesson-006",
@@ -161,7 +183,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 用户态与内核态\n\n用户态与内核态的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了用户态与内核态的核心知识。",
+    "knowledgePoints": [
+      "os-kp-008"
+    ]
   },
   {
     "id": "os-lesson-007",
@@ -189,7 +215,12 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 中断与异常\n\n中断与异常的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了中断与异常的核心知识。",
+    "knowledgePoints": [
+      "os-kp-009",
+      "os-kp-010"
+    ]
   },
   {
     "id": "os-lesson-008",
@@ -216,7 +247,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 系统调用实现\n\n系统调用实现的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了系统调用实现的核心知识。",
+    "knowledgePoints": [
+      "os-kp-011"
+    ]
   },
   {
     "id": "os-lesson-009",
@@ -243,7 +278,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 系统调用类型\n\n系统调用类型的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了系统调用类型的核心知识。",
+    "knowledgePoints": [
+      "os-kp-012"
+    ]
   },
   {
     "id": "os-lesson-010",
@@ -271,7 +310,12 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 进程的定义\n\n进程的定义的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了进程的定义的核心知识。",
+    "knowledgePoints": [
+      "os-kp-013",
+      "os-kp-014"
+    ]
   },
   {
     "id": "os-lesson-011",
@@ -298,7 +342,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 进程控制块PCB\n\n进程控制块PCB的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了进程控制块PCB的核心知识。",
+    "knowledgePoints": [
+      "os-kp-015"
+    ]
   },
   {
     "id": "os-lesson-012",
@@ -326,7 +374,12 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 进程状态转换\n\n进程状态转换的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了进程状态转换的核心知识。",
+    "knowledgePoints": [
+      "os-kp-016",
+      "os-kp-017"
+    ]
   },
   {
     "id": "os-lesson-013",
@@ -353,7 +406,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 进程创建与撤销\n\n进程创建与撤销的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了进程创建与撤销的核心知识。",
+    "knowledgePoints": [
+      "os-kp-018"
+    ]
   },
   {
     "id": "os-lesson-014",
@@ -380,7 +437,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 进程挂起与激活\n\n进程挂起与激活的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了进程挂起与激活的核心知识。",
+    "knowledgePoints": [
+      "os-kp-019"
+    ]
   },
   {
     "id": "os-lesson-015",
@@ -407,7 +468,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 上下文切换\n\n上下文切换的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了上下文切换的核心知识。",
+    "knowledgePoints": [
+      "os-kp-020"
+    ]
   },
   {
     "id": "os-lesson-016",
@@ -435,7 +500,12 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 线程定义与属性\n\n线程定义与属性的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了线程定义与属性的核心知识。",
+    "knowledgePoints": [
+      "os-kp-021",
+      "os-kp-022"
+    ]
   },
   {
     "id": "os-lesson-017",
@@ -462,7 +532,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 用户级线程\n\n用户级线程的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了用户级线程的核心知识。",
+    "knowledgePoints": [
+      "os-kp-023"
+    ]
   },
   {
     "id": "os-lesson-018",
@@ -489,7 +563,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 内核级线程\n\n内核级线程的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了内核级线程的核心知识。",
+    "knowledgePoints": [
+      "os-kp-024"
+    ]
   },
   {
     "id": "os-lesson-019",
@@ -516,7 +594,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 多线程模型\n\n多线程模型的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了多线程模型的核心知识。",
+    "knowledgePoints": [
+      "os-kp-025"
+    ]
   },
   {
     "id": "os-lesson-020",
@@ -543,7 +625,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 线程库Pthread\n\n线程库Pthread的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了线程库Pthread的核心知识。",
+    "knowledgePoints": [
+      "os-kp-026"
+    ]
   },
   {
     "id": "os-lesson-021",
@@ -570,7 +656,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 并发与并行区别\n\n并发与并行区别的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了并发与并行区别的核心知识。",
+    "knowledgePoints": [
+      "os-kp-027"
+    ]
   },
   {
     "id": "os-lesson-022",
@@ -597,7 +687,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 调度准则\n\n调度准则的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了调度准则的核心知识。",
+    "knowledgePoints": [
+      "os-kp-028"
+    ]
   },
   {
     "id": "os-lesson-023",
@@ -625,7 +719,12 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# FCFS调度\n\nFCFS调度的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了FCFS调度的核心知识。",
+    "knowledgePoints": [
+      "os-kp-029",
+      "os-kp-030"
+    ]
   },
   {
     "id": "os-lesson-024",
@@ -653,7 +752,12 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# SJF调度\n\nSJF调度的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了SJF调度的核心知识。",
+    "knowledgePoints": [
+      "os-kp-031",
+      "os-kp-032"
+    ]
   },
   {
     "id": "os-lesson-025",
@@ -680,7 +784,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 优先级调度\n\n优先级调度的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了优先级调度的核心知识。",
+    "knowledgePoints": [
+      "os-kp-033"
+    ]
   },
   {
     "id": "os-lesson-026",
@@ -707,7 +815,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 时间片轮转RR\n\n时间片轮转RR的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了时间片轮转RR的核心知识。",
+    "knowledgePoints": [
+      "os-kp-034"
+    ]
   },
   {
     "id": "os-lesson-027",
@@ -734,7 +846,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 多级反馈队列\n\n多级反馈队列的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了多级反馈队列的核心知识。",
+    "knowledgePoints": [
+      "os-kp-035"
+    ]
   },
   {
     "id": "os-lesson-028",
@@ -761,7 +877,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 高响应比优先HRRN\n\n高响应比优先HRRN的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了高响应比优先HRRN的核心知识。",
+    "knowledgePoints": [
+      "os-kp-036"
+    ]
   },
   {
     "id": "os-lesson-029",
@@ -788,7 +908,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 实时调度\n\n实时调度的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了实时调度的核心知识。",
+    "knowledgePoints": [
+      "os-kp-037"
+    ]
   },
   {
     "id": "os-lesson-030",
@@ -816,7 +940,12 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 临界区与临界资源\n\n临界区与临界资源的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了临界区与临界资源的核心知识。",
+    "knowledgePoints": [
+      "os-kp-038",
+      "os-kp-039"
+    ]
   },
   {
     "id": "os-lesson-031",
@@ -843,7 +972,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 互斥实现方法\n\n互斥实现方法的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了互斥实现方法的核心知识。",
+    "knowledgePoints": [
+      "os-kp-040"
+    ]
   },
   {
     "id": "os-lesson-032",
@@ -870,7 +1003,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 锁机制\n\n锁机制的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了锁机制的核心知识。",
+    "knowledgePoints": [
+      "os-kp-041"
+    ]
   },
   {
     "id": "os-lesson-033",
@@ -898,7 +1035,12 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 信号量定义\n\n信号量定义的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了信号量定义的核心知识。",
+    "knowledgePoints": [
+      "os-kp-042",
+      "os-kp-043"
+    ]
   },
   {
     "id": "os-lesson-034",
@@ -925,7 +1067,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# PV操作\n\nPV操作的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了PV操作的核心知识。",
+    "knowledgePoints": [
+      "os-kp-044"
+    ]
   },
   {
     "id": "os-lesson-035",
@@ -952,7 +1098,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 管程概念\n\n管程概念的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了管程概念的核心知识。",
+    "knowledgePoints": [
+      "os-kp-045"
+    ]
   },
   {
     "id": "os-lesson-036",
@@ -974,7 +1124,12 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 生产者消费者问题\n\n生产者消费者问题的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了生产者消费者问题的核心知识。",
+    "knowledgePoints": [
+      "os-kp-046",
+      "os-kp-047"
+    ]
   },
   {
     "id": "os-lesson-037",
@@ -996,7 +1151,12 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 读者写者问题\n\n读者写者问题的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了读者写者问题的核心知识。",
+    "knowledgePoints": [
+      "os-kp-048",
+      "os-kp-049"
+    ]
   },
   {
     "id": "os-lesson-038",
@@ -1018,7 +1178,12 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 哲学家进餐问题\n\n哲学家进餐问题的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了哲学家进餐问题的核心知识。",
+    "knowledgePoints": [
+      "os-kp-050",
+      "os-kp-051"
+    ]
   },
   {
     "id": "os-lesson-039",
@@ -1039,7 +1204,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 吸烟者问题\n\n吸烟者问题的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了吸烟者问题的核心知识。",
+    "knowledgePoints": [
+      "os-kp-052"
+    ]
   },
   {
     "id": "os-lesson-040",
@@ -1060,7 +1229,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 理发师问题\n\n理发师问题的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了理发师问题的核心知识。",
+    "knowledgePoints": [
+      "os-kp-053"
+    ]
   },
   {
     "id": "os-lesson-041",
@@ -1088,7 +1261,12 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 死锁定义\n\n死锁定义的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了死锁定义的核心知识。",
+    "knowledgePoints": [
+      "os-kp-054",
+      "os-kp-055"
+    ]
   },
   {
     "id": "os-lesson-042",
@@ -1115,7 +1293,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 死锁四个必要条件\n\n死锁四个必要条件的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了死锁四个必要条件的核心知识。",
+    "knowledgePoints": [
+      "os-kp-056"
+    ]
   },
   {
     "id": "os-lesson-043",
@@ -1142,7 +1324,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 死锁预防\n\n死锁预防的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了死锁预防的核心知识。",
+    "knowledgePoints": [
+      "os-kp-057"
+    ]
   },
   {
     "id": "os-lesson-044",
@@ -1169,7 +1355,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 死锁避免\n\n死锁避免的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了死锁避免的核心知识。",
+    "knowledgePoints": [
+      "os-kp-058"
+    ]
   },
   {
     "id": "os-lesson-045",
@@ -1198,7 +1388,13 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 银行家算法\n\n银行家算法的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了银行家算法的核心知识。",
+    "knowledgePoints": [
+      "os-kp-059",
+      "os-kp-060",
+      "os-kp-061"
+    ]
   },
   {
     "id": "os-lesson-046",
@@ -1225,7 +1421,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 死锁检测与解除\n\n死锁检测与解除的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了死锁检测与解除的核心知识。",
+    "knowledgePoints": [
+      "os-kp-062"
+    ]
   },
   {
     "id": "os-lesson-047",
@@ -1252,7 +1452,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 资源分配图\n\n资源分配图的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了资源分配图的核心知识。",
+    "knowledgePoints": [
+      "os-kp-063"
+    ]
   },
   {
     "id": "os-lesson-048",
@@ -1279,7 +1483,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 内存管理功能\n\n内存管理功能的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了内存管理功能的核心知识。",
+    "knowledgePoints": [
+      "os-kp-064"
+    ]
   },
   {
     "id": "os-lesson-049",
@@ -1306,7 +1514,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 连续内存分配\n\n连续内存分配的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了连续内存分配的核心知识。",
+    "knowledgePoints": [
+      "os-kp-065"
+    ]
   },
   {
     "id": "os-lesson-050",
@@ -1333,7 +1545,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 动态分区分配算法\n\n动态分区分配算法的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了动态分区分配算法的核心知识。",
+    "knowledgePoints": [
+      "os-kp-066"
+    ]
   },
   {
     "id": "os-lesson-051",
@@ -1361,7 +1577,12 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 分页存储管理\n\n分页存储管理的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了分页存储管理的核心知识。",
+    "knowledgePoints": [
+      "os-kp-067",
+      "os-kp-068"
+    ]
   },
   {
     "id": "os-lesson-052",
@@ -1388,7 +1609,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 页表结构\n\n页表结构的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了页表结构的核心知识。",
+    "knowledgePoints": [
+      "os-kp-069"
+    ]
   },
   {
     "id": "os-lesson-053",
@@ -1415,7 +1640,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 快表TLB\n\n快表TLB的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了快表TLB的核心知识。",
+    "knowledgePoints": [
+      "os-kp-070"
+    ]
   },
   {
     "id": "os-lesson-054",
@@ -1442,7 +1671,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 地址转换过程\n\n地址转换过程的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了地址转换过程的核心知识。",
+    "knowledgePoints": [
+      "os-kp-071"
+    ]
   },
   {
     "id": "os-lesson-055",
@@ -1469,7 +1702,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 多级页表\n\n多级页表的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了多级页表的核心知识。",
+    "knowledgePoints": [
+      "os-kp-072"
+    ]
   },
   {
     "id": "os-lesson-056",
@@ -1496,7 +1733,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 分段存储管理\n\n分段存储管理的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了分段存储管理的核心知识。",
+    "knowledgePoints": [
+      "os-kp-073"
+    ]
   },
   {
     "id": "os-lesson-057",
@@ -1523,7 +1764,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 段页式存储\n\n段页式存储的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了段页式存储的核心知识。",
+    "knowledgePoints": [
+      "os-kp-074"
+    ]
   },
   {
     "id": "os-lesson-058",
@@ -1551,7 +1796,12 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 虚拟内存概念\n\n虚拟内存概念的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了虚拟内存概念的核心知识。",
+    "knowledgePoints": [
+      "os-kp-075",
+      "os-kp-076"
+    ]
   },
   {
     "id": "os-lesson-059",
@@ -1578,7 +1828,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 请求分页\n\n请求分页的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了请求分页的核心知识。",
+    "knowledgePoints": [
+      "os-kp-077"
+    ]
   },
   {
     "id": "os-lesson-060",
@@ -1605,7 +1859,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 缺页中断\n\n缺页中断的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了缺页中断的核心知识。",
+    "knowledgePoints": [
+      "os-kp-078"
+    ]
   },
   {
     "id": "os-lesson-061",
@@ -1632,7 +1890,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# FIFO页面置换\n\nFIFO页面置换的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了FIFO页面置换的核心知识。",
+    "knowledgePoints": [
+      "os-kp-079"
+    ]
   },
   {
     "id": "os-lesson-062",
@@ -1659,7 +1921,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# LRU页面置换\n\nLRU页面置换的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了LRU页面置换的核心知识。",
+    "knowledgePoints": [
+      "os-kp-080"
+    ]
   },
   {
     "id": "os-lesson-063",
@@ -1686,7 +1952,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# CLOCK页面置换\n\nCLOCK页面置换的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了CLOCK页面置换的核心知识。",
+    "knowledgePoints": [
+      "os-kp-081"
+    ]
   },
   {
     "id": "os-lesson-064",
@@ -1713,7 +1983,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 最优置换OPT\n\n最优置换OPT的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了最优置换OPT的核心知识。",
+    "knowledgePoints": [
+      "os-kp-082"
+    ]
   },
   {
     "id": "os-lesson-065",
@@ -1740,7 +2014,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 页面分配策略\n\n页面分配策略的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了页面分配策略的核心知识。",
+    "knowledgePoints": [
+      "os-kp-083"
+    ]
   },
   {
     "id": "os-lesson-066",
@@ -1768,7 +2046,12 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 抖动与工作集\n\n抖动与工作集的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了抖动与工作集的核心知识。",
+    "knowledgePoints": [
+      "os-kp-084",
+      "os-kp-085"
+    ]
   },
   {
     "id": "os-lesson-067",
@@ -1795,7 +2078,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 缺页率分析\n\n缺页率分析的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了缺页率分析的核心知识。",
+    "knowledgePoints": [
+      "os-kp-086"
+    ]
   },
   {
     "id": "os-lesson-068",
@@ -1822,7 +2109,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 文件概念\n\n文件概念的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了文件概念的核心知识。",
+    "knowledgePoints": [
+      "os-kp-087"
+    ]
   },
   {
     "id": "os-lesson-069",
@@ -1849,7 +2140,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 文件逻辑结构\n\n文件逻辑结构的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了文件逻辑结构的核心知识。",
+    "knowledgePoints": [
+      "os-kp-088"
+    ]
   },
   {
     "id": "os-lesson-070",
@@ -1876,7 +2171,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 目录结构\n\n目录结构的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了目录结构的核心知识。",
+    "knowledgePoints": [
+      "os-kp-089"
+    ]
   },
   {
     "id": "os-lesson-071",
@@ -1903,7 +2202,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 文件控制块FCB\n\n文件控制块FCB的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了文件控制块FCB的核心知识。",
+    "knowledgePoints": [
+      "os-kp-090"
+    ]
   },
   {
     "id": "os-lesson-072",
@@ -1930,7 +2233,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 连续分配\n\n连续分配的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了连续分配的核心知识。",
+    "knowledgePoints": [
+      "os-kp-091"
+    ]
   },
   {
     "id": "os-lesson-073",
@@ -1957,7 +2264,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 链接分配\n\n链接分配的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了链接分配的核心知识。",
+    "knowledgePoints": [
+      "os-kp-092"
+    ]
   },
   {
     "id": "os-lesson-074",
@@ -1984,7 +2295,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 索引分配\n\n索引分配的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了索引分配的核心知识。",
+    "knowledgePoints": [
+      "os-kp-093"
+    ]
   },
   {
     "id": "os-lesson-075",
@@ -2011,7 +2326,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 空闲空间管理\n\n空闲空间管理的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了空闲空间管理的核心知识。",
+    "knowledgePoints": [
+      "os-kp-094"
+    ]
   },
   {
     "id": "os-lesson-076",
@@ -2038,7 +2357,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 文件系统实现\n\n文件系统实现的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了文件系统实现的核心知识。",
+    "knowledgePoints": [
+      "os-kp-095"
+    ]
   },
   {
     "id": "os-lesson-077",
@@ -2065,7 +2388,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 文件系统性能\n\n文件系统性能的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了文件系统性能的核心知识。",
+    "knowledgePoints": [
+      "os-kp-096"
+    ]
   },
   {
     "id": "os-lesson-078",
@@ -2087,7 +2414,12 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# I/O控制方式\n\nI/O控制方式的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了I/O控制方式的核心知识。",
+    "knowledgePoints": [
+      "os-kp-097",
+      "os-kp-098"
+    ]
   },
   {
     "id": "os-lesson-079",
@@ -2108,7 +2440,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 程序查询I/O\n\n程序查询I/O的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了程序查询I/O的核心知识。",
+    "knowledgePoints": [
+      "os-kp-099"
+    ]
   },
   {
     "id": "os-lesson-080",
@@ -2129,7 +2465,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 中断驱动I/O\n\n中断驱动I/O的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了中断驱动I/O的核心知识。",
+    "knowledgePoints": [
+      "os-kp-100"
+    ]
   },
   {
     "id": "os-lesson-081",
@@ -2150,7 +2490,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# DMA方式\n\nDMA方式的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了DMA方式的核心知识。",
+    "knowledgePoints": [
+      "os-kp-101"
+    ]
   },
   {
     "id": "os-lesson-082",
@@ -2171,7 +2515,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# I/O缓冲\n\nI/O缓冲的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了I/O缓冲的核心知识。",
+    "knowledgePoints": [
+      "os-kp-102"
+    ]
   },
   {
     "id": "os-lesson-083",
@@ -2192,7 +2540,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# SPOOLing系统\n\nSPOOLing系统的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了SPOOLing系统的核心知识。",
+    "knowledgePoints": [
+      "os-kp-103"
+    ]
   },
   {
     "id": "os-lesson-084",
@@ -2213,7 +2565,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 磁盘调度FCFS\n\n磁盘调度FCFS的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了磁盘调度FCFS的核心知识。",
+    "knowledgePoints": [
+      "os-kp-104"
+    ]
   },
   {
     "id": "os-lesson-085",
@@ -2234,7 +2590,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# SSTF磁盘调度\n\nSSTF磁盘调度的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了SSTF磁盘调度的核心知识。",
+    "knowledgePoints": [
+      "os-kp-105"
+    ]
   },
   {
     "id": "os-lesson-086",
@@ -2255,7 +2615,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# SCAN磁盘调度\n\nSCAN磁盘调度的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了SCAN磁盘调度的核心知识。",
+    "knowledgePoints": [
+      "os-kp-106"
+    ]
   },
   {
     "id": "os-lesson-087",
@@ -2276,7 +2640,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# C-SCAN磁盘调度\n\nC-SCAN磁盘调度的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了C-SCAN磁盘调度的核心知识。",
+    "knowledgePoints": [
+      "os-kp-107"
+    ]
   },
   {
     "id": "os-lesson-088",
@@ -2297,7 +2665,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# RAID技术\n\nRAID技术的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了RAID技术的核心知识。",
+    "knowledgePoints": [
+      "os-kp-108"
+    ]
   },
   {
     "id": "os-lesson-089",
@@ -2324,7 +2696,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Linux命令基础\n\nLinux命令基础的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了Linux命令基础的核心知识。",
+    "knowledgePoints": [
+      "os-kp-109"
+    ]
   },
   {
     "id": "os-lesson-090",
@@ -2351,7 +2727,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 文件操作命令\n\n文件操作命令的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了文件操作命令的核心知识。",
+    "knowledgePoints": [
+      "os-kp-110"
+    ]
   },
   {
     "id": "os-lesson-091",
@@ -2378,7 +2758,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 进程管理命令\n\n进程管理命令的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了进程管理命令的核心知识。",
+    "knowledgePoints": [
+      "os-kp-111"
+    ]
   },
   {
     "id": "os-lesson-092",
@@ -2405,7 +2789,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 文件权限管理\n\n文件权限管理的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了文件权限管理的核心知识。",
+    "knowledgePoints": [
+      "os-kp-112"
+    ]
   },
   {
     "id": "os-lesson-093",
@@ -2432,7 +2820,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Shell脚本基础\n\nShell脚本基础的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了Shell脚本基础的核心知识。",
+    "knowledgePoints": [
+      "os-kp-113"
+    ]
   },
   {
     "id": "os-lesson-094",
@@ -2459,7 +2851,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 管道与重定向\n\n管道与重定向的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了管道与重定向的核心知识。",
+    "knowledgePoints": [
+      "os-kp-114"
+    ]
   },
   {
     "id": "os-lesson-095",
@@ -2486,7 +2882,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 系统管理命令\n\n系统管理命令的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了系统管理命令的核心知识。",
+    "knowledgePoints": [
+      "os-kp-115"
+    ]
   },
   {
     "id": "os-lesson-096",
@@ -2507,7 +2907,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# OS知识点综合串讲\n\nOS知识点综合串讲的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了OS知识点综合串讲的核心知识。",
+    "knowledgePoints": [
+      "os-kp-116"
+    ]
   },
   {
     "id": "os-lesson-097",
@@ -2528,7 +2932,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 进程线程综合题\n\n进程线程综合题的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了进程线程综合题的核心知识。",
+    "knowledgePoints": [
+      "os-kp-117"
+    ]
   },
   {
     "id": "os-lesson-098",
@@ -2549,7 +2957,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 调度综合题\n\n调度综合题的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了调度综合题的核心知识。",
+    "knowledgePoints": [
+      "os-kp-118"
+    ]
   },
   {
     "id": "os-lesson-099",
@@ -2570,7 +2982,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 同步互斥综合题\n\n同步互斥综合题的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了同步互斥综合题的核心知识。",
+    "knowledgePoints": [
+      "os-kp-119"
+    ]
   },
   {
     "id": "os-lesson-100",
@@ -2591,7 +3007,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 死锁综合题\n\n死锁综合题的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了死锁综合题的核心知识。",
+    "knowledgePoints": [
+      "os-kp-120"
+    ]
   },
   {
     "id": "os-lesson-101",
@@ -2612,7 +3032,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 内存管理综合题\n\n内存管理综合题的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了内存管理综合题的核心知识。",
+    "knowledgePoints": [
+      "os-kp-121"
+    ]
   },
   {
     "id": "os-lesson-102",
@@ -2633,7 +3057,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 页面置换综合题\n\n页面置换综合题的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了页面置换综合题的核心知识。",
+    "knowledgePoints": [
+      "os-kp-122"
+    ]
   },
   {
     "id": "os-lesson-103",
@@ -2654,7 +3082,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 文件系统综合题\n\n文件系统综合题的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了文件系统综合题的核心知识。",
+    "knowledgePoints": [
+      "os-kp-123"
+    ]
   },
   {
     "id": "os-lesson-104",
@@ -2675,7 +3107,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# I/O综合题\n\nI/O综合题的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了I/O综合题的核心知识。",
+    "knowledgePoints": [
+      "os-kp-124"
+    ]
   },
   {
     "id": "os-lesson-105",
@@ -2696,7 +3132,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 408真题精讲\n\n408真题精讲的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了408真题精讲的核心知识。",
+    "knowledgePoints": [
+      "os-kp-125"
+    ]
   },
   {
     "id": "os-lesson-106",
@@ -2717,7 +3157,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 面试题精讲\n\n面试题精讲的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了面试题精讲的核心知识。",
+    "knowledgePoints": [
+      "os-kp-126"
+    ]
   },
   {
     "id": "os-lesson-107",
@@ -2738,7 +3182,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 模拟测试\n\n模拟测试的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了模拟测试的核心知识。",
+    "knowledgePoints": [
+      "os-kp-127"
+    ]
   },
   {
     "id": "os-lesson-108",
@@ -2759,7 +3207,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 考前冲刺\n\n考前冲刺的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算实例\n- 典型题\n\n## 总结\n\n本章介绍了考前冲刺的核心知识。",
+    "knowledgePoints": [
+      "os-kp-128"
+    ]
   },
   {
     "id": "os-lesson-109",
@@ -2780,7 +3232,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 操作系统分类\n\n操作系统分类的讲义内容。",
+    "knowledgePoints": [
+      "os-kp-0109"
+    ]
   },
   {
     "id": "os-lesson-110",
@@ -2801,7 +3257,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 操作系统的资源管理观点\n\n操作系统的资源管理观点的讲义内容。",
+    "knowledgePoints": [
+      "os-kp-0110"
+    ]
   },
   {
     "id": "os-lesson-111",
@@ -2822,7 +3282,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 微内核结构\n\n微内核结构的讲义内容。",
+    "knowledgePoints": [
+      "os-kp-0111"
+    ]
   },
   {
     "id": "os-lesson-112",
@@ -2843,7 +3307,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 模块化结构\n\n模块化结构的讲义内容。",
+    "knowledgePoints": [
+      "os-kp-0112"
+    ]
   },
   {
     "id": "os-lesson-113",
@@ -2864,7 +3332,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 系统调用的参数传递\n\n系统调用的参数传递的讲义内容。",
+    "knowledgePoints": [
+      "os-kp-0113"
+    ]
   },
   {
     "id": "os-lesson-114",
@@ -2885,7 +3357,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 孤儿进程与僵尸进程\n\n孤儿进程与僵尸进程的讲义内容。",
+    "knowledgePoints": [
+      "os-kp-0114"
+    ]
   },
   {
     "id": "os-lesson-115",
@@ -2906,7 +3382,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 守护进程\n\n守护进程的讲义内容。",
+    "knowledgePoints": [
+      "os-kp-0115"
+    ]
   },
   {
     "id": "os-lesson-116",
@@ -2927,7 +3407,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 进程调度队列\n\n进程调度队列的讲义内容。",
+    "knowledgePoints": [
+      "os-kp-0116"
+    ]
   },
   {
     "id": "os-lesson-117",
@@ -2948,7 +3432,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 多对一线程模型\n\n多对一线程模型的讲义内容。",
+    "knowledgePoints": [
+      "os-kp-0117"
+    ]
   },
   {
     "id": "os-lesson-118",
@@ -2969,7 +3457,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 一对一线程模型\n\n一对一线程模型的讲义内容。",
+    "knowledgePoints": [
+      "os-kp-0118"
+    ]
   },
   {
     "id": "os-lesson-119",
@@ -2990,7 +3482,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 多对多线程模型\n\n多对多线程模型的讲义内容。",
+    "knowledgePoints": [
+      "os-kp-0119"
+    ]
   },
   {
     "id": "os-lesson-120",
@@ -3011,7 +3507,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 线程库对比\n\n线程库对比的讲义内容。",
+    "knowledgePoints": [
+      "os-kp-0120"
+    ]
   },
   {
     "id": "os-lesson-121",
@@ -3032,7 +3532,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 调度算法的评价指标\n\n调度算法的评价指标的讲义内容。",
+    "knowledgePoints": [
+      "os-kp-0121"
+    ]
   },
   {
     "id": "os-lesson-122",
@@ -3053,7 +3557,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 最短剩余时间优先SRTN\n\n最短剩余时间优先SRTN的讲义内容。",
+    "knowledgePoints": [
+      "os-kp-0122"
+    ]
   },
   {
     "id": "os-lesson-123",
@@ -3074,7 +3582,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 最高响应比优先HRRN\n\n最高响应比优先HRRN的讲义内容。",
+    "knowledgePoints": [
+      "os-kp-0123"
+    ]
   },
   {
     "id": "os-lesson-124",
@@ -3095,7 +3607,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 多处理器调度\n\n多处理器调度的讲义内容。",
+    "knowledgePoints": [
+      "os-kp-0124"
+    ]
   },
   {
     "id": "os-lesson-125",
@@ -3116,7 +3632,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 硬件原子指令\n\n硬件原子指令的讲义内容。",
+    "knowledgePoints": [
+      "os-kp-0125"
+    ]
   },
   {
     "id": "os-lesson-126",
@@ -3137,7 +3657,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 互斥锁实现\n\n互斥锁实现的讲义内容。",
+    "knowledgePoints": [
+      "os-kp-0126"
+    ]
   },
   {
     "id": "os-lesson-127",
@@ -3158,7 +3682,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 自旋锁\n\n自旋锁的讲义内容。",
+    "knowledgePoints": [
+      "os-kp-0127"
+    ]
   },
   {
     "id": "os-lesson-128",
@@ -3179,7 +3707,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 读写锁\n\n读写锁的讲义内容。",
+    "knowledgePoints": [
+      "os-kp-0128"
+    ]
   },
   {
     "id": "os-lesson-129",
@@ -3200,7 +3732,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 条件变量\n\n条件变量的讲义内容。",
+    "knowledgePoints": [
+      "os-kp-0129"
+    ]
   },
   {
     "id": "os-lesson-130",
@@ -3221,7 +3757,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 生产者消费者PV实现\n\n生产者消费者PV实现的讲义内容。",
+    "knowledgePoints": [
+      "os-kp-0130"
+    ]
   },
   {
     "id": "os-lesson-131",
@@ -3242,7 +3782,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 读者写者PV实现\n\n读者写者PV实现的讲义内容。",
+    "knowledgePoints": [
+      "os-kp-0131"
+    ]
   },
   {
     "id": "os-lesson-132",
@@ -3263,7 +3807,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 哲学家进餐PV实现\n\n哲学家进餐PV实现的讲义内容。",
+    "knowledgePoints": [
+      "os-kp-0132"
+    ]
   },
   {
     "id": "os-lesson-133",
@@ -3284,7 +3832,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 吸烟者问题PV实现\n\n吸烟者问题PV实现的讲义内容。",
+    "knowledgePoints": [
+      "os-kp-0133"
+    ]
   },
   {
     "id": "os-lesson-134",
@@ -3305,7 +3857,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 理发师问题PV实现\n\n理发师问题PV实现的讲义内容。",
+    "knowledgePoints": [
+      "os-kp-0134"
+    ]
   },
   {
     "id": "os-lesson-135",
@@ -3326,7 +3882,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 资源分配图化简\n\n资源分配图化简的讲义内容。",
+    "knowledgePoints": [
+      "os-kp-0135"
+    ]
   },
   {
     "id": "os-lesson-136",
@@ -3347,7 +3907,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 死锁检测算法\n\n死锁检测算法的讲义内容。",
+    "knowledgePoints": [
+      "os-kp-0136"
+    ]
   },
   {
     "id": "os-lesson-137",
@@ -3368,7 +3932,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 死锁撤销方法\n\n死锁撤销方法的讲义内容。",
+    "knowledgePoints": [
+      "os-kp-0137"
+    ]
   },
   {
     "id": "os-lesson-138",
@@ -3389,7 +3957,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 鸵鸟算法\n\n鸵鸟算法的讲义内容。",
+    "knowledgePoints": [
+      "os-kp-0138"
+    ]
   },
   {
     "id": "os-lesson-139",
@@ -3410,7 +3982,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 紧凑技术\n\n紧凑技术的讲义内容。",
+    "knowledgePoints": [
+      "os-kp-0139"
+    ]
   },
   {
     "id": "os-lesson-140",
@@ -3431,7 +4007,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 伙伴系统\n\n伙伴系统的讲义内容。",
+    "knowledgePoints": [
+      "os-kp-0140"
+    ]
   },
   {
     "id": "os-lesson-141",
@@ -3452,7 +4032,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 哈希页表\n\n哈希页表的讲义内容。",
+    "knowledgePoints": [
+      "os-kp-0141"
+    ]
   },
   {
     "id": "os-lesson-142",
@@ -3473,7 +4057,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 反置页表\n\n反置页表的讲义内容。",
+    "knowledgePoints": [
+      "os-kp-0142"
+    ]
   },
   {
     "id": "os-lesson-143",
@@ -3494,7 +4082,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 页表结构优化\n\n页表结构优化的讲义内容。",
+    "knowledgePoints": [
+      "os-kp-0143"
+    ]
   },
   {
     "id": "os-lesson-144",
@@ -3515,7 +4107,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 缺页次数计算方法\n\n缺页次数计算方法的讲义内容。",
+    "knowledgePoints": [
+      "os-kp-0144"
+    ]
   },
   {
     "id": "os-lesson-145",
@@ -3536,7 +4132,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 页面缓冲技术\n\n页面缓冲技术的讲义内容。",
+    "knowledgePoints": [
+      "os-kp-0145"
+    ]
   },
   {
     "id": "os-lesson-146",
@@ -3557,7 +4157,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 全局置换与局部置换\n\n全局置换与局部置换的讲义内容。",
+    "knowledgePoints": [
+      "os-kp-0146"
+    ]
   },
   {
     "id": "os-lesson-147",
@@ -3578,7 +4182,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 内存映射文件\n\n内存映射文件的讲义内容。",
+    "knowledgePoints": [
+      "os-kp-0147"
+    ]
   },
   {
     "id": "os-lesson-148",
@@ -3599,7 +4207,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 文件共享\n\n文件共享的讲义内容。",
+    "knowledgePoints": [
+      "os-kp-0148"
+    ]
   },
   {
     "id": "os-lesson-149",
@@ -3620,7 +4232,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 文件保护\n\n文件保护的讲义内容。",
+    "knowledgePoints": [
+      "os-kp-0149"
+    ]
   },
   {
     "id": "os-lesson-150",
@@ -3641,7 +4257,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 日志文件系统\n\n日志文件系统的讲义内容。",
+    "knowledgePoints": [
+      "os-kp-0150"
+    ]
   },
   {
     "id": "os-lesson-151",
@@ -3662,7 +4282,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 虚拟文件系统VFS\n\n虚拟文件系统VFS的讲义内容。",
+    "knowledgePoints": [
+      "os-kp-0151"
+    ]
   },
   {
     "id": "os-lesson-152",
@@ -3683,7 +4307,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 设备驱动程序\n\n设备驱动程序的讲义内容。",
+    "knowledgePoints": [
+      "os-kp-0152"
+    ]
   },
   {
     "id": "os-lesson-153",
@@ -3704,7 +4332,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 设备独立性\n\n设备独立性的讲义内容。",
+    "knowledgePoints": [
+      "os-kp-0153"
+    ]
   },
   {
     "id": "os-lesson-154",
@@ -3725,7 +4357,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# I/O软件层次\n\nI/O软件层次的讲义内容。",
+    "knowledgePoints": [
+      "os-kp-0154"
+    ]
   },
   {
     "id": "os-lesson-155",
@@ -3746,7 +4382,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 磁盘性能参数\n\n磁盘性能参数的讲义内容。",
+    "knowledgePoints": [
+      "os-kp-0155"
+    ]
   },
   {
     "id": "os-lesson-156",
@@ -3767,7 +4407,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Linux文件系统类型\n\nLinux文件系统类型的讲义内容。",
+    "knowledgePoints": [
+      "os-kp-0156"
+    ]
   },
   {
     "id": "os-lesson-157",
@@ -3788,7 +4432,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Linux挂载操作\n\nLinux挂载操作的讲义内容。",
+    "knowledgePoints": [
+      "os-kp-0157"
+    ]
   },
   {
     "id": "os-lesson-158",
@@ -3809,7 +4457,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# grep与find命令\n\ngrep与find命令的讲义内容。",
+    "knowledgePoints": [
+      "os-kp-0158"
+    ]
   },
   {
     "id": "os-lesson-159",
@@ -3830,7 +4482,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# awk与sed基础\n\nawk与sed基础的讲义内容。",
+    "knowledgePoints": [
+      "os-kp-0159"
+    ]
   },
   {
     "id": "os-lesson-160",
@@ -3851,7 +4507,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Shell变量与条件\n\nShell变量与条件的讲义内容。",
+    "knowledgePoints": [
+      "os-kp-0160"
+    ]
   },
   {
     "id": "os-lesson-161",
@@ -3872,7 +4532,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Shell循环与函数\n\nShell循环与函数的讲义内容。",
+    "knowledgePoints": [
+      "os-kp-0161"
+    ]
   },
   {
     "id": "os-lesson-162",
@@ -3893,7 +4557,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 408OS选择题精讲\n\n408OS选择题精讲的讲义内容。",
+    "knowledgePoints": [
+      "os-kp-0162"
+    ]
   },
   {
     "id": "os-lesson-163",
@@ -3914,7 +4582,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 408OS大题精讲\n\n408OS大题精讲的讲义内容。",
+    "knowledgePoints": [
+      "os-kp-0163"
+    ]
   },
   {
     "id": "os-lesson-164",
@@ -3935,7 +4607,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 面试OS高频题\n\n面试OS高频题的讲义内容。",
+    "knowledgePoints": [
+      "os-kp-0164"
+    ]
   },
   {
     "id": "os-lesson-165",
@@ -3956,7 +4632,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 银行家算法综合题\n\n银行家算法综合题的讲义内容。",
+    "knowledgePoints": [
+      "os-kp-0165"
+    ]
   },
   {
     "id": "os-lesson-166",
@@ -3977,7 +4657,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# PV操作综合题\n\nPV操作综合题的讲义内容。",
+    "knowledgePoints": [
+      "os-kp-0166"
+    ]
   },
   {
     "id": "os-lesson-167",
@@ -3998,7 +4682,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 页面置换综合题\n\n页面置换综合题的讲义内容。",
+    "knowledgePoints": [
+      "os-kp-0167"
+    ]
   },
   {
     "id": "os-lesson-168",
@@ -4019,7 +4707,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 存储管理综合题\n\n存储管理综合题的讲义内容。",
+    "knowledgePoints": [
+      "os-kp-0168"
+    ]
   },
   {
     "id": "os-lesson-169",
@@ -4040,7 +4732,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 文件系统综合题\n\n文件系统综合题的讲义内容。",
+    "knowledgePoints": [
+      "os-kp-0169"
+    ]
   },
   {
     "id": "os-lesson-170",
@@ -4061,7 +4757,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 磁盘调度综合题\n\n磁盘调度综合题的讲义内容。",
+    "knowledgePoints": [
+      "os-kp-0170"
+    ]
   },
   {
     "id": "os-lesson-171",
@@ -4082,7 +4782,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Linux命令综合题\n\nLinux命令综合题的讲义内容。",
+    "knowledgePoints": [
+      "os-kp-0171"
+    ]
   },
   {
     "id": "os-lesson-172",
@@ -4103,7 +4807,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# OS设计题思路\n\nOS设计题思路的讲义内容。",
+    "knowledgePoints": [
+      "os-kp-0172"
+    ]
   },
   {
     "id": "os-lesson-173",
@@ -4124,7 +4832,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# OS案例分析\n\nOS案例分析的讲义内容。",
+    "knowledgePoints": [
+      "os-kp-0173"
+    ]
   },
   {
     "id": "os-lesson-174",
@@ -4145,7 +4857,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 期末模拟考试\n\n期末模拟考试的讲义内容。",
+    "knowledgePoints": [
+      "os-kp-0174"
+    ]
   },
   {
     "id": "os-lesson-175",
@@ -4166,7 +4882,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 408考前冲刺\n\n408考前冲刺的讲义内容。",
+    "knowledgePoints": [
+      "os-kp-0175"
+    ]
   },
   {
     "id": "os-lesson-176",
@@ -4187,7 +4907,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# OS学习方法与资源\n\nOS学习方法与资源的讲义内容。",
+    "knowledgePoints": [
+      "os-kp-0176"
+    ]
   },
   {
     "id": "os-lesson-177",
@@ -4208,7 +4932,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# OS与硬件的关系\n\nOS与硬件的关系的讲义内容。",
+    "knowledgePoints": [
+      "os-kp-0177"
+    ]
   },
   {
     "id": "os-lesson-178",
@@ -4229,7 +4957,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 系统调用性能分析\n\n系统调用性能分析的讲义内容。",
+    "knowledgePoints": [
+      "os-kp-0178"
+    ]
   },
   {
     "id": "os-lesson-179",
@@ -4250,7 +4982,11 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 进程间通信IPC\n\n进程间通信IPC的讲义内容。",
+    "knowledgePoints": [
+      "os-kp-0179"
+    ]
   },
   {
     "id": "os-lesson-180",
@@ -4271,6 +5007,10 @@
       "操作系统"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 共享内存实现\n\n共享内存实现的讲义内容。",
+    "knowledgePoints": [
+      "os-kp-0180"
+    ]
   }
 ]

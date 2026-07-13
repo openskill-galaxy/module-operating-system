@@ -25,7 +25,14 @@
       "理解内存管理",
       "具备系统编程基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "os-lesson-001",
+      "os-lesson-002",
+      "os-lesson-003",
+      "os-lesson-004"
+    ],
+    "summary": "操作系统定义、功能、发展历史、学习路线。"
   },
   {
     "id": "os-course-02",
@@ -54,7 +61,15 @@
       "理解内存管理",
       "具备系统编程基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "os-lesson-005",
+      "os-lesson-006",
+      "os-lesson-007",
+      "os-lesson-008",
+      "os-lesson-009"
+    ],
+    "summary": "操作系统结构、用户态内核态、中断、异常、系统调用。"
   },
   {
     "id": "os-course-03",
@@ -84,7 +99,16 @@
       "理解内存管理",
       "具备系统编程基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "os-lesson-010",
+      "os-lesson-011",
+      "os-lesson-012",
+      "os-lesson-013",
+      "os-lesson-014",
+      "os-lesson-015"
+    ],
+    "summary": "进程定义、PCB、进程状态转换、进程控制、上下文切换。"
   },
   {
     "id": "os-course-04",
@@ -114,7 +138,16 @@
       "理解内存管理",
       "具备系统编程基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "os-lesson-016",
+      "os-lesson-017",
+      "os-lesson-018",
+      "os-lesson-019",
+      "os-lesson-020",
+      "os-lesson-021"
+    ],
+    "summary": "线程概念、用户级与内核级线程、并发与并行、多线程模型。"
   },
   {
     "id": "os-course-05",
@@ -146,7 +179,18 @@
       "理解内存管理",
       "具备系统编程基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "os-lesson-022",
+      "os-lesson-023",
+      "os-lesson-024",
+      "os-lesson-025",
+      "os-lesson-026",
+      "os-lesson-027",
+      "os-lesson-028",
+      "os-lesson-029"
+    ],
+    "summary": "调度准则、FCFS、SJF、优先级、RR、多级反馈队列、实时调度。"
   },
   {
     "id": "os-course-06",
@@ -176,7 +220,16 @@
       "理解内存管理",
       "具备系统编程基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "os-lesson-030",
+      "os-lesson-031",
+      "os-lesson-032",
+      "os-lesson-033",
+      "os-lesson-034",
+      "os-lesson-035"
+    ],
+    "summary": "临界区、互斥、同步、信号量、管程、经典同步问题。"
   },
   {
     "id": "os-course-07",
@@ -205,7 +258,15 @@
       "理解内存管理",
       "具备系统编程基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "os-lesson-036",
+      "os-lesson-037",
+      "os-lesson-038",
+      "os-lesson-039",
+      "os-lesson-040"
+    ],
+    "summary": "PV操作、生产者消费者、读者写者、哲学家进餐、吸烟者问题。"
   },
   {
     "id": "os-course-08",
@@ -236,7 +297,17 @@
       "理解内存管理",
       "具备系统编程基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "os-lesson-041",
+      "os-lesson-042",
+      "os-lesson-043",
+      "os-lesson-044",
+      "os-lesson-045",
+      "os-lesson-046",
+      "os-lesson-047"
+    ],
+    "summary": "死锁定义、四个必要条件、预防、避免(银行家算法)、检测与解除。"
   },
   {
     "id": "os-course-09",
@@ -270,7 +341,20 @@
       "理解内存管理",
       "具备系统编程基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "os-lesson-048",
+      "os-lesson-049",
+      "os-lesson-050",
+      "os-lesson-051",
+      "os-lesson-052",
+      "os-lesson-053",
+      "os-lesson-054",
+      "os-lesson-055",
+      "os-lesson-056",
+      "os-lesson-057"
+    ],
+    "summary": "连续分配、分页、分段、段页式、页表结构、TLB、地址转换。"
   },
   {
     "id": "os-course-10",
@@ -304,7 +388,20 @@
       "理解内存管理",
       "具备系统编程基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "os-lesson-058",
+      "os-lesson-059",
+      "os-lesson-060",
+      "os-lesson-061",
+      "os-lesson-062",
+      "os-lesson-063",
+      "os-lesson-064",
+      "os-lesson-065",
+      "os-lesson-066",
+      "os-lesson-067"
+    ],
+    "summary": "虚拟内存概念、缺页中断、FIFO/LRU/CLOCK算法、工作集、抖动。"
   },
   {
     "id": "os-course-11",
@@ -338,7 +435,20 @@
       "理解内存管理",
       "具备系统编程基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "os-lesson-068",
+      "os-lesson-069",
+      "os-lesson-070",
+      "os-lesson-071",
+      "os-lesson-072",
+      "os-lesson-073",
+      "os-lesson-074",
+      "os-lesson-075",
+      "os-lesson-076",
+      "os-lesson-077"
+    ],
+    "summary": "文件概念、目录结构、文件分配、空闲空间管理、文件系统实现。"
   },
   {
     "id": "os-course-12",
@@ -373,7 +483,21 @@
       "理解内存管理",
       "具备系统编程基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "os-lesson-078",
+      "os-lesson-079",
+      "os-lesson-080",
+      "os-lesson-081",
+      "os-lesson-082",
+      "os-lesson-083",
+      "os-lesson-084",
+      "os-lesson-085",
+      "os-lesson-086",
+      "os-lesson-087",
+      "os-lesson-088"
+    ],
+    "summary": "I/O控制方式、缓冲、SPOOLing、磁盘调度、RAID。"
   },
   {
     "id": "os-course-13",
@@ -404,7 +528,17 @@
       "理解内存管理",
       "具备系统编程基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "os-lesson-089",
+      "os-lesson-090",
+      "os-lesson-091",
+      "os-lesson-092",
+      "os-lesson-093",
+      "os-lesson-094",
+      "os-lesson-095"
+    ],
+    "summary": "Linux常用命令、进程管理、文件权限、Shell脚本、系统管理。"
   },
   {
     "id": "os-course-14",
@@ -441,6 +575,22 @@
       "理解内存管理",
       "具备系统编程基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "os-lesson-096",
+      "os-lesson-097",
+      "os-lesson-098",
+      "os-lesson-099",
+      "os-lesson-100",
+      "os-lesson-101",
+      "os-lesson-102",
+      "os-lesson-103",
+      "os-lesson-104",
+      "os-lesson-105",
+      "os-lesson-106",
+      "os-lesson-107",
+      "os-lesson-108"
+    ],
+    "summary": "知识点串联、经典题精讲、408真题、面试问题、综合测试。"
   }
 ]
