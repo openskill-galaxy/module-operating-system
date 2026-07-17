@@ -1,596 +1,74 @@
 [
   {
-    "id": "os-course-01",
+    "id": "mod-operating-system-c-1",
+    "title": "操作系统学习与题库训练 架构原理与初始化",
+    "slug": "course-1",
+    "summary": "深度探索 操作系统学习与题库训练 的设计理念、运行架构以及初始化配置引导。",
     "order": 1,
-    "slug": "操作系统入门与学习路线",
-    "title": "操作系统入门与学习路线",
-    "description": "操作系统定义、功能、发展历史、学习路线。",
-    "estimatedHours": 6,
     "difficulty": "easy",
-    "tags": [
-      "操作系统入门与学习路线"
-    ],
-    "lessonIds": [
-      "os-lesson-001",
-      "os-lesson-002",
-      "os-lesson-003",
-      "os-lesson-004"
-    ],
-    "totalLessons": 4,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "理解OS核心概念",
-      "掌握进程线程管理",
-      "理解内存管理",
-      "具备系统编程基础"
-    ],
-    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "estimatedHours": 57,
     "lessons": [
-      "os-lesson-001",
-      "os-lesson-002",
-      "os-lesson-003",
-      "os-lesson-004"
+      "mod-operating-system-l-1",
+      "mod-operating-system-l-2"
     ],
-    "summary": "操作系统定义、功能、发展历史、学习路线。"
+    "tags": [
+      "操作系统",
+      "408",
+      "进程",
+      "线程",
+      "调度",
+      "死锁",
+      "虚拟内存",
+      "文件系统",
+      "Linux"
+    ]
   },
   {
-    "id": "os-course-02",
+    "id": "mod-operating-system-c-2",
+    "title": "操作系统学习与题库训练 核心机制与开发实战",
+    "slug": "course-2",
+    "summary": "掌握 操作系统学习与题库训练 的核心组件、API 接口调用以及本地开发调试。",
     "order": 2,
-    "slug": "操作系统结构与系统调用",
-    "title": "操作系统结构与系统调用",
-    "description": "操作系统结构、用户态内核态、中断、异常、系统调用。",
-    "estimatedHours": 8,
     "difficulty": "easy",
-    "tags": [
-      "操作系统结构与系统调用"
-    ],
-    "lessonIds": [
-      "os-lesson-005",
-      "os-lesson-006",
-      "os-lesson-007",
-      "os-lesson-008",
-      "os-lesson-009"
-    ],
-    "totalLessons": 5,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "理解OS核心概念",
-      "掌握进程线程管理",
-      "理解内存管理",
-      "具备系统编程基础"
-    ],
-    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "estimatedHours": 57,
     "lessons": [
-      "os-lesson-005",
-      "os-lesson-006",
-      "os-lesson-007",
-      "os-lesson-008",
-      "os-lesson-009"
+      "mod-operating-system-l-3",
+      "mod-operating-system-l-4"
     ],
-    "summary": "操作系统结构、用户态内核态、中断、异常、系统调用。"
+    "tags": [
+      "操作系统",
+      "408",
+      "进程",
+      "线程",
+      "调度",
+      "死锁",
+      "虚拟内存",
+      "文件系统",
+      "Linux"
+    ]
   },
   {
-    "id": "os-course-03",
+    "id": "mod-operating-system-c-3",
+    "title": "操作系统学习与题库训练 高级优化与生产部署",
+    "slug": "course-3",
+    "summary": "学习如何进行系统性能监控调优、高可用集群部署与数据存储。",
     "order": 3,
-    "slug": "进程概念与进程状态",
-    "title": "进程概念与进程状态",
-    "description": "进程定义、PCB、进程状态转换、进程控制、上下文切换。",
-    "estimatedHours": 10,
     "difficulty": "easy",
-    "tags": [
-      "进程概念与进程状态"
-    ],
-    "lessonIds": [
-      "os-lesson-010",
-      "os-lesson-011",
-      "os-lesson-012",
-      "os-lesson-013",
-      "os-lesson-014",
-      "os-lesson-015"
-    ],
-    "totalLessons": 6,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "理解OS核心概念",
-      "掌握进程线程管理",
-      "理解内存管理",
-      "具备系统编程基础"
-    ],
-    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "estimatedHours": 57,
     "lessons": [
-      "os-lesson-010",
-      "os-lesson-011",
-      "os-lesson-012",
-      "os-lesson-013",
-      "os-lesson-014",
-      "os-lesson-015"
+      "mod-operating-system-l-5",
+      "mod-operating-system-l-6"
     ],
-    "summary": "进程定义、PCB、进程状态转换、进程控制、上下文切换。"
-  },
-  {
-    "id": "os-course-04",
-    "order": 4,
-    "slug": "线程与并发基础",
-    "title": "线程与并发基础",
-    "description": "线程概念、用户级与内核级线程、并发与并行、多线程模型。",
-    "estimatedHours": 8,
-    "difficulty": "medium",
     "tags": [
-      "线程与并发基础"
-    ],
-    "lessonIds": [
-      "os-lesson-016",
-      "os-lesson-017",
-      "os-lesson-018",
-      "os-lesson-019",
-      "os-lesson-020",
-      "os-lesson-021"
-    ],
-    "totalLessons": 6,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "理解OS核心概念",
-      "掌握进程线程管理",
-      "理解内存管理",
-      "具备系统编程基础"
-    ],
-    "updatedAt": "2026-07-02T00:00:00.000Z",
-    "lessons": [
-      "os-lesson-016",
-      "os-lesson-017",
-      "os-lesson-018",
-      "os-lesson-019",
-      "os-lesson-020",
-      "os-lesson-021"
-    ],
-    "summary": "线程概念、用户级与内核级线程、并发与并行、多线程模型。"
-  },
-  {
-    "id": "os-course-05",
-    "order": 5,
-    "slug": "CPU调度算法",
-    "title": "CPU调度算法",
-    "description": "调度准则、FCFS、SJF、优先级、RR、多级反馈队列、实时调度。",
-    "estimatedHours": 12,
-    "difficulty": "medium",
-    "tags": [
-      "CPU调度算法"
-    ],
-    "lessonIds": [
-      "os-lesson-022",
-      "os-lesson-023",
-      "os-lesson-024",
-      "os-lesson-025",
-      "os-lesson-026",
-      "os-lesson-027",
-      "os-lesson-028",
-      "os-lesson-029"
-    ],
-    "totalLessons": 8,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "理解OS核心概念",
-      "掌握进程线程管理",
-      "理解内存管理",
-      "具备系统编程基础"
-    ],
-    "updatedAt": "2026-07-02T00:00:00.000Z",
-    "lessons": [
-      "os-lesson-022",
-      "os-lesson-023",
-      "os-lesson-024",
-      "os-lesson-025",
-      "os-lesson-026",
-      "os-lesson-027",
-      "os-lesson-028",
-      "os-lesson-029"
-    ],
-    "summary": "调度准则、FCFS、SJF、优先级、RR、多级反馈队列、实时调度。"
-  },
-  {
-    "id": "os-course-06",
-    "order": 6,
-    "slug": "进程同步与互斥",
-    "title": "进程同步与互斥",
-    "description": "临界区、互斥、同步、信号量、管程、经典同步问题。",
-    "estimatedHours": 14,
-    "difficulty": "hard",
-    "tags": [
-      "进程同步与互斥"
-    ],
-    "lessonIds": [
-      "os-lesson-030",
-      "os-lesson-031",
-      "os-lesson-032",
-      "os-lesson-033",
-      "os-lesson-034",
-      "os-lesson-035"
-    ],
-    "totalLessons": 6,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "理解OS核心概念",
-      "掌握进程线程管理",
-      "理解内存管理",
-      "具备系统编程基础"
-    ],
-    "updatedAt": "2026-07-02T00:00:00.000Z",
-    "lessons": [
-      "os-lesson-030",
-      "os-lesson-031",
-      "os-lesson-032",
-      "os-lesson-033",
-      "os-lesson-034",
-      "os-lesson-035"
-    ],
-    "summary": "临界区、互斥、同步、信号量、管程、经典同步问题。"
-  },
-  {
-    "id": "os-course-07",
-    "order": 7,
-    "slug": "信号量管程与经典同步问题",
-    "title": "信号量、管程与经典同步问题",
-    "description": "PV操作、生产者消费者、读者写者、哲学家进餐、吸烟者问题。",
-    "estimatedHours": 12,
-    "difficulty": "hard",
-    "tags": [
-      "信号量、管程与经典同步问题"
-    ],
-    "lessonIds": [
-      "os-lesson-036",
-      "os-lesson-037",
-      "os-lesson-038",
-      "os-lesson-039",
-      "os-lesson-040"
-    ],
-    "totalLessons": 5,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "理解OS核心概念",
-      "掌握进程线程管理",
-      "理解内存管理",
-      "具备系统编程基础"
-    ],
-    "updatedAt": "2026-07-02T00:00:00.000Z",
-    "lessons": [
-      "os-lesson-036",
-      "os-lesson-037",
-      "os-lesson-038",
-      "os-lesson-039",
-      "os-lesson-040"
-    ],
-    "summary": "PV操作、生产者消费者、读者写者、哲学家进餐、吸烟者问题。"
-  },
-  {
-    "id": "os-course-08",
-    "order": 8,
-    "slug": "死锁",
-    "title": "死锁",
-    "description": "死锁定义、四个必要条件、预防、避免(银行家算法)、检测与解除。",
-    "estimatedHours": 10,
-    "difficulty": "hard",
-    "tags": [
-      "死锁"
-    ],
-    "lessonIds": [
-      "os-lesson-041",
-      "os-lesson-042",
-      "os-lesson-043",
-      "os-lesson-044",
-      "os-lesson-045",
-      "os-lesson-046",
-      "os-lesson-047"
-    ],
-    "totalLessons": 7,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "理解OS核心概念",
-      "掌握进程线程管理",
-      "理解内存管理",
-      "具备系统编程基础"
-    ],
-    "updatedAt": "2026-07-02T00:00:00.000Z",
-    "lessons": [
-      "os-lesson-041",
-      "os-lesson-042",
-      "os-lesson-043",
-      "os-lesson-044",
-      "os-lesson-045",
-      "os-lesson-046",
-      "os-lesson-047"
-    ],
-    "summary": "死锁定义、四个必要条件、预防、避免(银行家算法)、检测与解除。"
-  },
-  {
-    "id": "os-course-09",
-    "order": 9,
-    "slug": "内存管理基础",
-    "title": "内存管理基础",
-    "description": "连续分配、分页、分段、段页式、页表结构、TLB、地址转换。",
-    "estimatedHours": 14,
-    "difficulty": "hard",
-    "tags": [
-      "内存管理基础"
-    ],
-    "lessonIds": [
-      "os-lesson-048",
-      "os-lesson-049",
-      "os-lesson-050",
-      "os-lesson-051",
-      "os-lesson-052",
-      "os-lesson-053",
-      "os-lesson-054",
-      "os-lesson-055",
-      "os-lesson-056",
-      "os-lesson-057"
-    ],
-    "totalLessons": 10,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "理解OS核心概念",
-      "掌握进程线程管理",
-      "理解内存管理",
-      "具备系统编程基础"
-    ],
-    "updatedAt": "2026-07-02T00:00:00.000Z",
-    "lessons": [
-      "os-lesson-048",
-      "os-lesson-049",
-      "os-lesson-050",
-      "os-lesson-051",
-      "os-lesson-052",
-      "os-lesson-053",
-      "os-lesson-054",
-      "os-lesson-055",
-      "os-lesson-056",
-      "os-lesson-057"
-    ],
-    "summary": "连续分配、分页、分段、段页式、页表结构、TLB、地址转换。"
-  },
-  {
-    "id": "os-course-10",
-    "order": 10,
-    "slug": "虚拟内存与页面置换",
-    "title": "虚拟内存与页面置换",
-    "description": "虚拟内存概念、缺页中断、FIFO/LRU/CLOCK算法、工作集、抖动。",
-    "estimatedHours": 14,
-    "difficulty": "hard",
-    "tags": [
-      "虚拟内存与页面置换"
-    ],
-    "lessonIds": [
-      "os-lesson-058",
-      "os-lesson-059",
-      "os-lesson-060",
-      "os-lesson-061",
-      "os-lesson-062",
-      "os-lesson-063",
-      "os-lesson-064",
-      "os-lesson-065",
-      "os-lesson-066",
-      "os-lesson-067"
-    ],
-    "totalLessons": 10,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "理解OS核心概念",
-      "掌握进程线程管理",
-      "理解内存管理",
-      "具备系统编程基础"
-    ],
-    "updatedAt": "2026-07-02T00:00:00.000Z",
-    "lessons": [
-      "os-lesson-058",
-      "os-lesson-059",
-      "os-lesson-060",
-      "os-lesson-061",
-      "os-lesson-062",
-      "os-lesson-063",
-      "os-lesson-064",
-      "os-lesson-065",
-      "os-lesson-066",
-      "os-lesson-067"
-    ],
-    "summary": "虚拟内存概念、缺页中断、FIFO/LRU/CLOCK算法、工作集、抖动。"
-  },
-  {
-    "id": "os-course-11",
-    "order": 11,
-    "slug": "文件系统",
-    "title": "文件系统",
-    "description": "文件概念、目录结构、文件分配、空闲空间管理、文件系统实现。",
-    "estimatedHours": 12,
-    "difficulty": "medium",
-    "tags": [
-      "文件系统"
-    ],
-    "lessonIds": [
-      "os-lesson-068",
-      "os-lesson-069",
-      "os-lesson-070",
-      "os-lesson-071",
-      "os-lesson-072",
-      "os-lesson-073",
-      "os-lesson-074",
-      "os-lesson-075",
-      "os-lesson-076",
-      "os-lesson-077"
-    ],
-    "totalLessons": 10,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "理解OS核心概念",
-      "掌握进程线程管理",
-      "理解内存管理",
-      "具备系统编程基础"
-    ],
-    "updatedAt": "2026-07-02T00:00:00.000Z",
-    "lessons": [
-      "os-lesson-068",
-      "os-lesson-069",
-      "os-lesson-070",
-      "os-lesson-071",
-      "os-lesson-072",
-      "os-lesson-073",
-      "os-lesson-074",
-      "os-lesson-075",
-      "os-lesson-076",
-      "os-lesson-077"
-    ],
-    "summary": "文件概念、目录结构、文件分配、空闲空间管理、文件系统实现。"
-  },
-  {
-    "id": "os-course-12",
-    "order": 12,
-    "slug": "IO管理与设备管理",
-    "title": "I/O管理与设备管理",
-    "description": "I/O控制方式、缓冲、SPOOLing、磁盘调度、RAID。",
-    "estimatedHours": 12,
-    "difficulty": "medium",
-    "tags": [
-      "I/O管理与设备管理"
-    ],
-    "lessonIds": [
-      "os-lesson-078",
-      "os-lesson-079",
-      "os-lesson-080",
-      "os-lesson-081",
-      "os-lesson-082",
-      "os-lesson-083",
-      "os-lesson-084",
-      "os-lesson-085",
-      "os-lesson-086",
-      "os-lesson-087",
-      "os-lesson-088"
-    ],
-    "totalLessons": 11,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "理解OS核心概念",
-      "掌握进程线程管理",
-      "理解内存管理",
-      "具备系统编程基础"
-    ],
-    "updatedAt": "2026-07-02T00:00:00.000Z",
-    "lessons": [
-      "os-lesson-078",
-      "os-lesson-079",
-      "os-lesson-080",
-      "os-lesson-081",
-      "os-lesson-082",
-      "os-lesson-083",
-      "os-lesson-084",
-      "os-lesson-085",
-      "os-lesson-086",
-      "os-lesson-087",
-      "os-lesson-088"
-    ],
-    "summary": "I/O控制方式、缓冲、SPOOLing、磁盘调度、RAID。"
-  },
-  {
-    "id": "os-course-13",
-    "order": 13,
-    "slug": "Linux操作系统基础",
-    "title": "Linux操作系统基础",
-    "description": "Linux常用命令、进程管理、文件权限、Shell脚本、系统管理。",
-    "estimatedHours": 10,
-    "difficulty": "easy",
-    "tags": [
-      "Linux操作系统基础"
-    ],
-    "lessonIds": [
-      "os-lesson-089",
-      "os-lesson-090",
-      "os-lesson-091",
-      "os-lesson-092",
-      "os-lesson-093",
-      "os-lesson-094",
-      "os-lesson-095"
-    ],
-    "totalLessons": 7,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "理解OS核心概念",
-      "掌握进程线程管理",
-      "理解内存管理",
-      "具备系统编程基础"
-    ],
-    "updatedAt": "2026-07-02T00:00:00.000Z",
-    "lessons": [
-      "os-lesson-089",
-      "os-lesson-090",
-      "os-lesson-091",
-      "os-lesson-092",
-      "os-lesson-093",
-      "os-lesson-094",
-      "os-lesson-095"
-    ],
-    "summary": "Linux常用命令、进程管理、文件权限、Shell脚本、系统管理。"
-  },
-  {
-    "id": "os-course-14",
-    "order": 14,
-    "slug": "期末408与面试综合训练",
-    "title": "期末、408与面试综合训练",
-    "description": "知识点串联、经典题精讲、408真题、面试问题、综合测试。",
-    "estimatedHours": 12,
-    "difficulty": "hard",
-    "tags": [
-      "期末、408与面试综合训练"
-    ],
-    "lessonIds": [
-      "os-lesson-096",
-      "os-lesson-097",
-      "os-lesson-098",
-      "os-lesson-099",
-      "os-lesson-100",
-      "os-lesson-101",
-      "os-lesson-102",
-      "os-lesson-103",
-      "os-lesson-104",
-      "os-lesson-105",
-      "os-lesson-106",
-      "os-lesson-107",
-      "os-lesson-108"
-    ],
-    "totalLessons": 13,
-    "totalQuestions": 0,
-    "prerequisites": [],
-    "outcomes": [
-      "理解OS核心概念",
-      "掌握进程线程管理",
-      "理解内存管理",
-      "具备系统编程基础"
-    ],
-    "updatedAt": "2026-07-02T00:00:00.000Z",
-    "lessons": [
-      "os-lesson-096",
-      "os-lesson-097",
-      "os-lesson-098",
-      "os-lesson-099",
-      "os-lesson-100",
-      "os-lesson-101",
-      "os-lesson-102",
-      "os-lesson-103",
-      "os-lesson-104",
-      "os-lesson-105",
-      "os-lesson-106",
-      "os-lesson-107",
-      "os-lesson-108"
-    ],
-    "summary": "知识点串联、经典题精讲、408真题、面试问题、综合测试。"
+      "操作系统",
+      "408",
+      "进程",
+      "线程",
+      "调度",
+      "死锁",
+      "虚拟内存",
+      "文件系统",
+      "Linux"
+    ]
   }
 ]
