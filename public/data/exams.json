@@ -1,9 +1,9 @@
 [
   {
     "id": "mod-operating-system-exam-1",
-    "slug": "final-exam",
-    "title": "操作系统学习与题库训练 核心期末综合自测",
-    "summary": "全面检验您对 操作系统学习与题库训练 所有阶段知识体系的掌握程度。",
+    "slug": "basic-exam",
+    "title": "操作系统基础入门测验",
+    "summary": "覆盖进程线程概念、进程状态、系统调用与虚拟内存基础等入门知识。",
     "difficulty": "easy",
     "questionIds": [
       "mod-operating-system-q-1",
@@ -11,21 +11,56 @@
       "mod-operating-system-q-3",
       "mod-operating-system-q-4",
       "mod-operating-system-q-5",
-      "mod-operating-system-q-6"
+      "mod-operating-system-q-15",
+      "mod-operating-system-q-19",
+      "mod-operating-system-q-20",
+      "mod-operating-system-q-6",
+      "mod-operating-system-q-10"
     ],
-    "timeLimitMinutes": 60,
+    "timeLimitMinutes": 15,
     "passingScore": 60
   },
   {
     "id": "mod-operating-system-exam-2",
-    "slug": "basic-exam",
-    "title": "操作系统学习与题库训练 基础概念快速评估",
-    "summary": "针对核心基础概念的摸底评估，题目精炼。",
-    "difficulty": "easy",
+    "slug": "advanced-exam",
+    "title": "操作系统进阶强化测验",
+    "summary": "聚焦死锁处理、页面置换、信号量、fork 与线程模型等 408 核心考点。",
+    "difficulty": "medium",
     "questionIds": [
-      "mod-operating-system-q-1",
-      "mod-operating-system-q-2",
-      "mod-operating-system-q-3"
+      "mod-operating-system-q-6",
+      "mod-operating-system-q-7",
+      "mod-operating-system-q-9",
+      "mod-operating-system-q-10",
+      "mod-operating-system-q-11",
+      "mod-operating-system-q-12",
+      "mod-operating-system-q-16",
+      "mod-operating-system-q-17",
+      "mod-operating-system-q-21",
+      "mod-operating-system-q-22",
+      "mod-operating-system-q-23"
+    ],
+    "timeLimitMinutes": 25,
+    "passingScore": 60
+  },
+  {
+    "id": "mod-operating-system-exam-3",
+    "slug": "final-exam",
+    "title": "操作系统综合模拟考试",
+    "summary": "综合考查并发竞态、文件系统计算、中断异常与请求调页流程，模拟考研难度。",
+    "difficulty": "hard",
+    "questionIds": [
+      "mod-operating-system-q-8",
+      "mod-operating-system-q-9",
+      "mod-operating-system-q-11",
+      "mod-operating-system-q-13",
+      "mod-operating-system-q-14",
+      "mod-operating-system-q-16",
+      "mod-operating-system-q-18",
+      "mod-operating-system-q-21",
+      "mod-operating-system-q-22",
+      "mod-operating-system-q-23",
+      "mod-operating-system-q-24",
+      "mod-operating-system-q-12"
     ],
     "timeLimitMinutes": 30,
     "passingScore": 60

@@ -5,11 +5,7 @@
     "description": "通过进程状态转换掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-000853",
-      "os-q-000260",
-      "os-q-001437"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "进程状态转换"
     ],
@@ -29,11 +25,7 @@
     "description": "通过进程调度掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-000755",
-      "os-q-002563",
-      "os-q-000322"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "进程调度"
     ],
@@ -53,11 +45,7 @@
     "description": "通过FCFS调度掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-000416",
-      "os-q-003510",
-      "os-q-002728"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "FCFS调度"
     ],
@@ -77,11 +65,7 @@
     "description": "通过SJF调度掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-001978",
-      "os-q-002961",
-      "os-q-001772"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "SJF调度"
     ],
@@ -101,11 +85,7 @@
     "description": "通过时间片轮转掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-003203",
-      "os-q-000442",
-      "os-q-001837"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "时间片轮转"
     ],
@@ -125,11 +105,7 @@
     "description": "通过多级反馈队列掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-002173",
-      "os-q-001834",
-      "os-q-003574"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "多级反馈队列"
     ],
@@ -149,11 +125,7 @@
     "description": "通过生产者消费者掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-000108",
-      "os-q-002171",
-      "os-q-002982"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "生产者消费者"
     ],
@@ -173,11 +145,7 @@
     "description": "通过读者写者掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-003697",
-      "os-q-002647",
-      "os-q-002746"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "读者写者"
     ],
@@ -197,11 +165,7 @@
     "description": "通过哲学家进餐掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-000397",
-      "os-q-002537",
-      "os-q-002193"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "哲学家进餐"
     ],
@@ -221,11 +185,7 @@
     "description": "通过信号量PV分析掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-002358",
-      "os-q-000987",
-      "os-q-003576"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "信号量PV分析"
     ],
@@ -245,11 +205,7 @@
     "description": "通过死锁判断掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-003501",
-      "os-q-001909",
-      "os-q-003547"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "死锁判断"
     ],
@@ -269,11 +225,7 @@
     "description": "通过死锁预防掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-001291",
-      "os-q-002398",
-      "os-q-003188"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "死锁预防"
     ],
@@ -293,11 +245,7 @@
     "description": "通过银行家算法掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-001622",
-      "os-q-002925",
-      "os-q-002530"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "银行家算法"
     ],
@@ -317,11 +265,7 @@
     "description": "通过分页地址转换掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-000394",
-      "os-q-003456",
-      "os-q-001842"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "分页地址转换"
     ],
@@ -341,11 +285,7 @@
     "description": "通过页表查询掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-002932",
-      "os-q-001402",
-      "os-q-001127"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "页表查询"
     ],
@@ -365,11 +305,7 @@
     "description": "通过TLB命中率掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-002061",
-      "os-q-000593",
-      "os-q-000356"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "TLB命中率"
     ],
@@ -389,11 +325,7 @@
     "description": "通过FIFO页面置换掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-001161",
-      "os-q-000355",
-      "os-q-000239"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "FIFO页面置换"
     ],
@@ -413,11 +345,7 @@
     "description": "通过LRU页面置换掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-002348",
-      "os-q-003365",
-      "os-q-000680"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "LRU页面置换"
     ],
@@ -437,11 +365,7 @@
     "description": "通过CLOCK页面置换掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-003601",
-      "os-q-000154",
-      "os-q-002930"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "CLOCK页面置换"
     ],
@@ -461,11 +385,7 @@
     "description": "通过文件目录掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-003392",
-      "os-q-002316",
-      "os-q-000877"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "文件目录"
     ],
@@ -485,11 +405,7 @@
     "description": "通过文件分配方式掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-000406",
-      "os-q-003543",
-      "os-q-003249"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "文件分配方式"
     ],
@@ -509,11 +425,7 @@
     "description": "通过空闲空间管理掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-003170",
-      "os-q-002369",
-      "os-q-003521"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "空闲空间管理"
     ],
@@ -533,11 +445,7 @@
     "description": "通过磁盘调度掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-001041",
-      "os-q-001820",
-      "os-q-003143"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "磁盘调度"
     ],
@@ -557,11 +465,7 @@
     "description": "通过Linux权限掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-003183",
-      "os-q-003250",
-      "os-q-000251"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Linux权限"
     ],
@@ -581,11 +485,7 @@
     "description": "通过Shell命令掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-002753",
-      "os-q-003128",
-      "os-q-001867"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Shell命令"
     ],
@@ -605,11 +505,7 @@
     "description": "通过期末综合题掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-003692",
-      "os-q-002333",
-      "os-q-000620"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "期末综合题"
     ],
@@ -629,11 +525,7 @@
     "description": "通过408OS综合题掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-001904",
-      "os-q-001733",
-      "os-q-001643"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "408OS综合题"
     ],
@@ -653,11 +545,7 @@
     "description": "通过进程状态转换掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-000152",
-      "os-q-003117",
-      "os-q-002887"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "进程状态转换"
     ],
@@ -677,11 +565,7 @@
     "description": "通过进程调度掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-001532",
-      "os-q-001577",
-      "os-q-002356"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "进程调度"
     ],
@@ -701,11 +585,7 @@
     "description": "通过FCFS调度掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-002780",
-      "os-q-000997",
-      "os-q-001323"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "FCFS调度"
     ],
@@ -725,11 +605,7 @@
     "description": "通过SJF调度掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-002285",
-      "os-q-001216",
-      "os-q-000458"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "SJF调度"
     ],
@@ -749,11 +625,7 @@
     "description": "通过时间片轮转掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-002309",
-      "os-q-002115",
-      "os-q-001827"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "时间片轮转"
     ],
@@ -773,11 +645,7 @@
     "description": "通过多级反馈队列掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-003341",
-      "os-q-000717",
-      "os-q-000711"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "多级反馈队列"
     ],
@@ -797,11 +665,7 @@
     "description": "通过生产者消费者掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-000946",
-      "os-q-000911",
-      "os-q-001520"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "生产者消费者"
     ],
@@ -821,11 +685,7 @@
     "description": "通过读者写者掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-002359",
-      "os-q-001330",
-      "os-q-002448"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "读者写者"
     ],
@@ -845,11 +705,7 @@
     "description": "通过哲学家进餐掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-002305",
-      "os-q-001742",
-      "os-q-001649"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "哲学家进餐"
     ],
@@ -869,11 +725,7 @@
     "description": "通过信号量PV分析掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-003025",
-      "os-q-002836",
-      "os-q-000949"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "信号量PV分析"
     ],
@@ -893,11 +745,7 @@
     "description": "通过死锁判断掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-000029",
-      "os-q-001111",
-      "os-q-000712"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "死锁判断"
     ],
@@ -917,11 +765,7 @@
     "description": "通过死锁预防掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-002492",
-      "os-q-002520",
-      "os-q-001460"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "死锁预防"
     ],
@@ -941,11 +785,7 @@
     "description": "通过银行家算法掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-002378",
-      "os-q-000208",
-      "os-q-002810"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "银行家算法"
     ],
@@ -965,11 +805,7 @@
     "description": "通过分页地址转换掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-000749",
-      "os-q-001697",
-      "os-q-002311"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "分页地址转换"
     ],
@@ -989,11 +825,7 @@
     "description": "通过页表查询掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-001924",
-      "os-q-002489",
-      "os-q-002501"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "页表查询"
     ],
@@ -1013,11 +845,7 @@
     "description": "通过TLB命中率掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-000125",
-      "os-q-000435",
-      "os-q-003593"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "TLB命中率"
     ],
@@ -1037,11 +865,7 @@
     "description": "通过FIFO页面置换掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-002403",
-      "os-q-002067",
-      "os-q-002030"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "FIFO页面置换"
     ],
@@ -1061,11 +885,7 @@
     "description": "通过LRU页面置换掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-000451",
-      "os-q-000164",
-      "os-q-002956"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "LRU页面置换"
     ],
@@ -1085,11 +905,7 @@
     "description": "通过CLOCK页面置换掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-000378",
-      "os-q-003614",
-      "os-q-002915"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "CLOCK页面置换"
     ],
@@ -1109,11 +925,7 @@
     "description": "通过文件目录掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-003573",
-      "os-q-002155",
-      "os-q-001000"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "文件目录"
     ],
@@ -1133,11 +945,7 @@
     "description": "通过文件分配方式掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-000350",
-      "os-q-000515",
-      "os-q-002289"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "文件分配方式"
     ],
@@ -1157,11 +965,7 @@
     "description": "通过空闲空间管理掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-003303",
-      "os-q-000974",
-      "os-q-001806"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "空闲空间管理"
     ],
@@ -1181,11 +985,7 @@
     "description": "通过磁盘调度掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-002937",
-      "os-q-001519",
-      "os-q-003398"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "磁盘调度"
     ],
@@ -1205,11 +1005,7 @@
     "description": "通过Linux权限掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-001037",
-      "os-q-000076",
-      "os-q-000620"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Linux权限"
     ],
@@ -1229,11 +1025,7 @@
     "description": "通过Shell命令掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-002546",
-      "os-q-002696",
-      "os-q-002702"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Shell命令"
     ],
@@ -1253,11 +1045,7 @@
     "description": "通过期末综合题掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-002749",
-      "os-q-000250",
-      "os-q-000500"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "期末综合题"
     ],
@@ -1277,11 +1065,7 @@
     "description": "通过408OS综合题掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-001142",
-      "os-q-001182",
-      "os-q-002651"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "408OS综合题"
     ],
@@ -1301,11 +1085,7 @@
     "description": "通过进程状态转换掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-002576",
-      "os-q-003382",
-      "os-q-000982"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "进程状态转换"
     ],
@@ -1325,11 +1105,7 @@
     "description": "通过进程调度掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-000687",
-      "os-q-001621",
-      "os-q-000786"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "进程调度"
     ],
@@ -1349,11 +1125,7 @@
     "description": "通过FCFS调度掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-002264",
-      "os-q-001797",
-      "os-q-000090"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "FCFS调度"
     ],
@@ -1373,11 +1145,7 @@
     "description": "通过SJF调度掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-002946",
-      "os-q-002328",
-      "os-q-003642"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "SJF调度"
     ],
@@ -1397,11 +1165,7 @@
     "description": "通过时间片轮转掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-000954",
-      "os-q-000993",
-      "os-q-001224"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "时间片轮转"
     ],
@@ -1421,11 +1185,7 @@
     "description": "通过多级反馈队列掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-000770",
-      "os-q-002799",
-      "os-q-001646"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "多级反馈队列"
     ],
@@ -1445,11 +1205,7 @@
     "description": "通过生产者消费者掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-001818",
-      "os-q-002506",
-      "os-q-003468"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "生产者消费者"
     ],
@@ -1469,11 +1225,7 @@
     "description": "通过读者写者掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-002909",
-      "os-q-001383",
-      "os-q-000971"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "读者写者"
     ],
@@ -1493,11 +1245,7 @@
     "description": "通过哲学家进餐掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-001269",
-      "os-q-000098",
-      "os-q-003132"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "哲学家进餐"
     ],
@@ -1517,11 +1265,7 @@
     "description": "通过信号量PV分析掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-001226",
-      "os-q-001311",
-      "os-q-003024"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "信号量PV分析"
     ],
@@ -1541,11 +1285,7 @@
     "description": "通过死锁判断掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-000605",
-      "os-q-001932",
-      "os-q-001992"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "死锁判断"
     ],
@@ -1565,11 +1305,7 @@
     "description": "通过死锁预防掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-000029",
-      "os-q-001973",
-      "os-q-001666"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "死锁预防"
     ],
@@ -1589,11 +1325,7 @@
     "description": "通过银行家算法掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-001075",
-      "os-q-001466",
-      "os-q-001124"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "银行家算法"
     ],
@@ -1613,11 +1345,7 @@
     "description": "通过分页地址转换掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-001163",
-      "os-q-001097",
-      "os-q-002801"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "分页地址转换"
     ],
@@ -1637,11 +1365,7 @@
     "description": "通过页表查询掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-002420",
-      "os-q-003466",
-      "os-q-001470"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "页表查询"
     ],
@@ -1661,11 +1385,7 @@
     "description": "通过TLB命中率掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-000042",
-      "os-q-002488",
-      "os-q-000340"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "TLB命中率"
     ],
@@ -1685,11 +1405,7 @@
     "description": "通过FIFO页面置换掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-001269",
-      "os-q-002504",
-      "os-q-003447"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "FIFO页面置换"
     ],
@@ -1709,11 +1425,7 @@
     "description": "通过LRU页面置换掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-001537",
-      "os-q-000721",
-      "os-q-002223"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "LRU页面置换"
     ],
@@ -1733,11 +1445,7 @@
     "description": "通过CLOCK页面置换掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-000387",
-      "os-q-003188",
-      "os-q-000578"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "CLOCK页面置换"
     ],
@@ -1757,11 +1465,7 @@
     "description": "通过文件目录掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-000268",
-      "os-q-003429",
-      "os-q-000256"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "文件目录"
     ],
@@ -1781,11 +1485,7 @@
     "description": "通过文件分配方式掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-000490",
-      "os-q-003100",
-      "os-q-001973"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "文件分配方式"
     ],
@@ -1805,11 +1505,7 @@
     "description": "通过空闲空间管理掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-000615",
-      "os-q-002442",
-      "os-q-001375"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "空闲空间管理"
     ],
@@ -1829,11 +1525,7 @@
     "description": "通过磁盘调度掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-003508",
-      "os-q-003516",
-      "os-q-001364"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "磁盘调度"
     ],
@@ -1853,11 +1545,7 @@
     "description": "通过Linux权限掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-002251",
-      "os-q-003133",
-      "os-q-000745"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Linux权限"
     ],
@@ -1877,11 +1565,7 @@
     "description": "通过Shell命令掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-000781",
-      "os-q-002747",
-      "os-q-002950"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Shell命令"
     ],
@@ -1901,11 +1585,7 @@
     "description": "通过期末综合题掌握操作系统方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "os-q-003197",
-      "os-q-000550",
-      "os-q-000695"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "期末综合题"
     ],
@@ -1925,11 +1605,7 @@
     "description": "通过408OS综合题掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-001853",
-      "os-q-001426",
-      "os-q-000993"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "408OS综合题"
     ],
@@ -1949,11 +1625,7 @@
     "description": "通过进程状态转换掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-002004",
-      "os-q-003366",
-      "os-q-000156"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "进程状态转换"
     ],
@@ -1973,11 +1645,7 @@
     "description": "通过进程调度掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-001906",
-      "os-q-003241",
-      "os-q-000985"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "进程调度"
     ],
@@ -1997,11 +1665,7 @@
     "description": "通过FCFS调度掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-003252",
-      "os-q-003599",
-      "os-q-000410"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "FCFS调度"
     ],
@@ -2021,11 +1685,7 @@
     "description": "通过SJF调度掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-001443",
-      "os-q-001517",
-      "os-q-002655"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "SJF调度"
     ],
@@ -2045,11 +1705,7 @@
     "description": "通过时间片轮转掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-002848",
-      "os-q-003448",
-      "os-q-002404"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "时间片轮转"
     ],
@@ -2069,11 +1725,7 @@
     "description": "通过多级反馈队列掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-003443",
-      "os-q-002490",
-      "os-q-000119"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "多级反馈队列"
     ],
@@ -2093,11 +1745,7 @@
     "description": "通过生产者消费者掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-002423",
-      "os-q-001974",
-      "os-q-001210"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "生产者消费者"
     ],
@@ -2117,11 +1765,7 @@
     "description": "通过读者写者掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-000836",
-      "os-q-001607",
-      "os-q-001727"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "读者写者"
     ],
@@ -2141,11 +1785,7 @@
     "description": "通过哲学家进餐掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-001581",
-      "os-q-002473",
-      "os-q-002305"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "哲学家进餐"
     ],
@@ -2165,11 +1805,7 @@
     "description": "通过信号量PV分析掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-002309",
-      "os-q-001059",
-      "os-q-002490"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "信号量PV分析"
     ],
@@ -2189,11 +1825,7 @@
     "description": "通过死锁判断掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-002640",
-      "os-q-000925",
-      "os-q-001761"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "死锁判断"
     ],
@@ -2213,11 +1845,7 @@
     "description": "通过死锁预防掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-002171",
-      "os-q-003285",
-      "os-q-002207"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "死锁预防"
     ],
@@ -2237,11 +1865,7 @@
     "description": "通过银行家算法掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-000699",
-      "os-q-002661",
-      "os-q-003538"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "银行家算法"
     ],
@@ -2261,11 +1885,7 @@
     "description": "通过分页地址转换掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-001602",
-      "os-q-003049",
-      "os-q-000305"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "分页地址转换"
     ],
@@ -2285,11 +1905,7 @@
     "description": "通过页表查询掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-002345",
-      "os-q-000356",
-      "os-q-002693"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "页表查询"
     ],
@@ -2309,11 +1925,7 @@
     "description": "通过TLB命中率掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-001566",
-      "os-q-001847",
-      "os-q-003234"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "TLB命中率"
     ],
@@ -2333,11 +1945,7 @@
     "description": "通过FIFO页面置换掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-000187",
-      "os-q-003096",
-      "os-q-001843"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "FIFO页面置换"
     ],
@@ -2357,11 +1965,7 @@
     "description": "通过LRU页面置换掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-001955",
-      "os-q-001563",
-      "os-q-000534"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "LRU页面置换"
     ],
@@ -2381,11 +1985,7 @@
     "description": "通过CLOCK页面置换掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-003573",
-      "os-q-001248",
-      "os-q-000756"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "CLOCK页面置换"
     ],
@@ -2405,11 +2005,7 @@
     "description": "通过文件目录掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-000433",
-      "os-q-002193",
-      "os-q-003044"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "文件目录"
     ],
@@ -2429,11 +2025,7 @@
     "description": "通过文件分配方式掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-000745",
-      "os-q-003657",
-      "os-q-002099"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "文件分配方式"
     ],
@@ -2453,11 +2045,7 @@
     "description": "通过空闲空间管理掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-000835",
-      "os-q-002271",
-      "os-q-001218"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "空闲空间管理"
     ],
@@ -2477,11 +2065,7 @@
     "description": "通过磁盘调度掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-001163",
-      "os-q-003193",
-      "os-q-002841"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "磁盘调度"
     ],
@@ -2501,11 +2085,7 @@
     "description": "通过Linux权限掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-001265",
-      "os-q-001885",
-      "os-q-000457"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Linux权限"
     ],
@@ -2525,11 +2105,7 @@
     "description": "通过Shell命令掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-001486",
-      "os-q-001350",
-      "os-q-000337"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Shell命令"
     ],
@@ -2549,11 +2125,7 @@
     "description": "通过期末综合题掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-000069",
-      "os-q-002869",
-      "os-q-002522"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "期末综合题"
     ],
@@ -2573,11 +2145,7 @@
     "description": "通过408OS综合题掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-001040",
-      "os-q-001637",
-      "os-q-001828"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "408OS综合题"
     ],
@@ -2597,11 +2165,7 @@
     "description": "通过进程状态转换掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-000994",
-      "os-q-002769",
-      "os-q-000209"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "进程状态转换"
     ],
@@ -2621,11 +2185,7 @@
     "description": "通过进程调度掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-002929",
-      "os-q-000871",
-      "os-q-002267"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "进程调度"
     ],
@@ -2645,11 +2205,7 @@
     "description": "通过FCFS调度掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-000652",
-      "os-q-002133",
-      "os-q-000070"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "FCFS调度"
     ],
@@ -2669,11 +2225,7 @@
     "description": "通过SJF调度掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-003436",
-      "os-q-001453",
-      "os-q-001584"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "SJF调度"
     ],
@@ -2693,11 +2245,7 @@
     "description": "通过时间片轮转掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-001500",
-      "os-q-002778",
-      "os-q-000962"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "时间片轮转"
     ],
@@ -2717,11 +2265,7 @@
     "description": "通过多级反馈队列掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-002008",
-      "os-q-001995",
-      "os-q-002597"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "多级反馈队列"
     ],
@@ -2741,11 +2285,7 @@
     "description": "通过生产者消费者掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-000560",
-      "os-q-001305",
-      "os-q-002945"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "生产者消费者"
     ],
@@ -2765,11 +2305,7 @@
     "description": "通过读者写者掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-000148",
-      "os-q-001267",
-      "os-q-000574"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "读者写者"
     ],
@@ -2789,11 +2325,7 @@
     "description": "通过哲学家进餐掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-001733",
-      "os-q-001232",
-      "os-q-002187"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "哲学家进餐"
     ],
@@ -2813,11 +2345,7 @@
     "description": "通过信号量PV分析掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-002097",
-      "os-q-000701",
-      "os-q-003336"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "信号量PV分析"
     ],
@@ -2837,11 +2365,7 @@
     "description": "通过死锁判断掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-001523",
-      "os-q-001916",
-      "os-q-001258"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "死锁判断"
     ],
@@ -2861,11 +2385,7 @@
     "description": "通过死锁预防掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-000021",
-      "os-q-001827",
-      "os-q-000482"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "死锁预防"
     ],
@@ -2885,11 +2405,7 @@
     "description": "通过银行家算法掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-001821",
-      "os-q-002723",
-      "os-q-003078"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "银行家算法"
     ],
@@ -2909,11 +2425,7 @@
     "description": "通过分页地址转换掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-001167",
-      "os-q-002659",
-      "os-q-002338"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "分页地址转换"
     ],
@@ -2933,11 +2445,7 @@
     "description": "通过页表查询掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-001429",
-      "os-q-001976",
-      "os-q-000816"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "页表查询"
     ],
@@ -2957,11 +2465,7 @@
     "description": "通过TLB命中率掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-000128",
-      "os-q-001173",
-      "os-q-000387"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "TLB命中率"
     ],
@@ -2981,11 +2485,7 @@
     "description": "通过FIFO页面置换掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-002155",
-      "os-q-002112",
-      "os-q-000287"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "FIFO页面置换"
     ],
@@ -3005,11 +2505,7 @@
     "description": "通过LRU页面置换掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-001669",
-      "os-q-003655",
-      "os-q-003667"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "LRU页面置换"
     ],
@@ -3029,11 +2525,7 @@
     "description": "通过CLOCK页面置换掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-000937",
-      "os-q-003684",
-      "os-q-000109"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "CLOCK页面置换"
     ],
@@ -3053,11 +2545,7 @@
     "description": "通过文件目录掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-000938",
-      "os-q-002786",
-      "os-q-002371"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "文件目录"
     ],
@@ -3077,11 +2565,7 @@
     "description": "通过文件分配方式掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-001856",
-      "os-q-001829",
-      "os-q-002553"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "文件分配方式"
     ],
@@ -3101,11 +2585,7 @@
     "description": "通过空闲空间管理掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-000612",
-      "os-q-001333",
-      "os-q-000842"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "空闲空间管理"
     ],
@@ -3125,11 +2605,7 @@
     "description": "通过磁盘调度掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-001687",
-      "os-q-000846",
-      "os-q-002138"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "磁盘调度"
     ],
@@ -3149,11 +2625,7 @@
     "description": "通过Linux权限掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-000428",
-      "os-q-002929",
-      "os-q-001321"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Linux权限"
     ],
@@ -3173,11 +2645,7 @@
     "description": "通过Shell命令掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-000573",
-      "os-q-000351",
-      "os-q-002989"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Shell命令"
     ],
@@ -3197,11 +2665,7 @@
     "description": "通过期末综合题掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-000420",
-      "os-q-003517",
-      "os-q-001720"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "期末综合题"
     ],
@@ -3221,11 +2685,7 @@
     "description": "通过408OS综合题掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-003529",
-      "os-q-002203",
-      "os-q-003645"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "408OS综合题"
     ],
@@ -3245,11 +2705,7 @@
     "description": "通过进程状态转换掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-001151",
-      "os-q-002725",
-      "os-q-003404"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "进程状态转换"
     ],
@@ -3269,11 +2725,7 @@
     "description": "通过进程调度掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-001614",
-      "os-q-001557",
-      "os-q-001677"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "进程调度"
     ],
@@ -3293,11 +2745,7 @@
     "description": "通过FCFS调度掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-001435",
-      "os-q-001034",
-      "os-q-003171"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "FCFS调度"
     ],
@@ -3317,11 +2765,7 @@
     "description": "通过SJF调度掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-002520",
-      "os-q-001949",
-      "os-q-000543"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "SJF调度"
     ],
@@ -3341,11 +2785,7 @@
     "description": "通过时间片轮转掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-002804",
-      "os-q-002086",
-      "os-q-003246"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "时间片轮转"
     ],
@@ -3365,11 +2805,7 @@
     "description": "通过多级反馈队列掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-001015",
-      "os-q-003087",
-      "os-q-002321"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "多级反馈队列"
     ],
@@ -3389,11 +2825,7 @@
     "description": "通过生产者消费者掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-000655",
-      "os-q-000133",
-      "os-q-002466"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "生产者消费者"
     ],
@@ -3413,11 +2845,7 @@
     "description": "通过读者写者掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-000953",
-      "os-q-001706",
-      "os-q-003565"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "读者写者"
     ],
@@ -3437,11 +2865,7 @@
     "description": "通过哲学家进餐掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-002075",
-      "os-q-002959",
-      "os-q-000674"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "哲学家进餐"
     ],
@@ -3461,11 +2885,7 @@
     "description": "通过信号量PV分析掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-002630",
-      "os-q-001900",
-      "os-q-000225"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "信号量PV分析"
     ],
@@ -3485,11 +2905,7 @@
     "description": "通过死锁判断掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-000804",
-      "os-q-002090",
-      "os-q-003192"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "死锁判断"
     ],
@@ -3509,11 +2925,7 @@
     "description": "通过死锁预防掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-000500",
-      "os-q-003346",
-      "os-q-001259"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "死锁预防"
     ],
@@ -3533,11 +2945,7 @@
     "description": "通过银行家算法掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-001131",
-      "os-q-002331",
-      "os-q-002471"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "银行家算法"
     ],
@@ -3557,11 +2965,7 @@
     "description": "通过分页地址转换掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-003698",
-      "os-q-002085",
-      "os-q-002441"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "分页地址转换"
     ],
@@ -3581,11 +2985,7 @@
     "description": "通过页表查询掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-001424",
-      "os-q-002814",
-      "os-q-000762"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "页表查询"
     ],
@@ -3605,11 +3005,7 @@
     "description": "通过TLB命中率掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-001215",
-      "os-q-000557",
-      "os-q-000555"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "TLB命中率"
     ],
@@ -3629,11 +3025,7 @@
     "description": "通过FIFO页面置换掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-003008",
-      "os-q-003415",
-      "os-q-000584"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "FIFO页面置换"
     ],
@@ -3653,11 +3045,7 @@
     "description": "通过LRU页面置换掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-002227",
-      "os-q-001962",
-      "os-q-000964"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "LRU页面置换"
     ],
@@ -3677,11 +3065,7 @@
     "description": "通过CLOCK页面置换掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-003628",
-      "os-q-002203",
-      "os-q-003542"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "CLOCK页面置换"
     ],
@@ -3701,11 +3085,7 @@
     "description": "通过文件目录掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-001940",
-      "os-q-003081",
-      "os-q-003420"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "文件目录"
     ],
@@ -3725,11 +3105,7 @@
     "description": "通过文件分配方式掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-002480",
-      "os-q-000071",
-      "os-q-002765"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "文件分配方式"
     ],
@@ -3749,11 +3125,7 @@
     "description": "通过空闲空间管理掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-000322",
-      "os-q-002422",
-      "os-q-001325"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "空闲空间管理"
     ],
@@ -3773,11 +3145,7 @@
     "description": "通过磁盘调度掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-002498",
-      "os-q-002133",
-      "os-q-002037"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "磁盘调度"
     ],
@@ -3797,11 +3165,7 @@
     "description": "通过Linux权限掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-003274",
-      "os-q-002179",
-      "os-q-001059"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Linux权限"
     ],
@@ -3821,11 +3185,7 @@
     "description": "通过Shell命令掌握操作系统方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "os-q-003069",
-      "os-q-000702",
-      "os-q-002694"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Shell命令"
     ],
@@ -3845,11 +3205,7 @@
     "description": "通过期末综合题掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-002561",
-      "os-q-001478",
-      "os-q-002085"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "期末综合题"
     ],
@@ -3869,11 +3225,7 @@
     "description": "通过408OS综合题掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-003425",
-      "os-q-000067",
-      "os-q-001092"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "408OS综合题"
     ],
@@ -3893,11 +3245,7 @@
     "description": "通过进程状态转换掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-000401",
-      "os-q-002006",
-      "os-q-002537"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "进程状态转换"
     ],
@@ -3917,11 +3265,7 @@
     "description": "通过进程调度掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-002486",
-      "os-q-002965",
-      "os-q-003552"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "进程调度"
     ],
@@ -3941,11 +3285,7 @@
     "description": "通过FCFS调度掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-002719",
-      "os-q-000686",
-      "os-q-001733"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "FCFS调度"
     ],
@@ -3965,11 +3305,7 @@
     "description": "通过SJF调度掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-003312",
-      "os-q-001197",
-      "os-q-000596"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "SJF调度"
     ],
@@ -3989,11 +3325,7 @@
     "description": "通过时间片轮转掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-003589",
-      "os-q-001434",
-      "os-q-001615"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "时间片轮转"
     ],
@@ -4013,11 +3345,7 @@
     "description": "通过多级反馈队列掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-003639",
-      "os-q-000842",
-      "os-q-003142"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "多级反馈队列"
     ],
@@ -4037,11 +3365,7 @@
     "description": "通过生产者消费者掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-002676",
-      "os-q-003597",
-      "os-q-000178"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "生产者消费者"
     ],
@@ -4061,11 +3385,7 @@
     "description": "通过读者写者掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-001032",
-      "os-q-003305",
-      "os-q-001745"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "读者写者"
     ],
@@ -4085,11 +3405,7 @@
     "description": "通过哲学家进餐掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-002552",
-      "os-q-002310",
-      "os-q-000208"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "哲学家进餐"
     ],
@@ -4109,11 +3425,7 @@
     "description": "通过信号量PV分析掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-003455",
-      "os-q-001913",
-      "os-q-003306"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "信号量PV分析"
     ],
@@ -4133,11 +3445,7 @@
     "description": "通过死锁判断掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-003014",
-      "os-q-000466",
-      "os-q-003623"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "死锁判断"
     ],
@@ -4157,11 +3465,7 @@
     "description": "通过死锁预防掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-002782",
-      "os-q-001545",
-      "os-q-002881"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "死锁预防"
     ],
@@ -4181,11 +3485,7 @@
     "description": "通过银行家算法掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-000857",
-      "os-q-001381",
-      "os-q-002720"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "银行家算法"
     ],
@@ -4205,11 +3505,7 @@
     "description": "通过分页地址转换掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-001282",
-      "os-q-001654",
-      "os-q-002722"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "分页地址转换"
     ],
@@ -4229,11 +3525,7 @@
     "description": "通过页表查询掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-003136",
-      "os-q-002606",
-      "os-q-001238"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "页表查询"
     ],
@@ -4253,11 +3545,7 @@
     "description": "通过TLB命中率掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-001425",
-      "os-q-000098",
-      "os-q-000095"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "TLB命中率"
     ],
@@ -4277,11 +3565,7 @@
     "description": "通过FIFO页面置换掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-002159",
-      "os-q-001681",
-      "os-q-000517"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "FIFO页面置换"
     ],
@@ -4301,11 +3585,7 @@
     "description": "通过LRU页面置换掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-001752",
-      "os-q-001953",
-      "os-q-003609"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "LRU页面置换"
     ],
@@ -4325,11 +3605,7 @@
     "description": "通过CLOCK页面置换掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-001770",
-      "os-q-000458",
-      "os-q-003650"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "CLOCK页面置换"
     ],
@@ -4349,11 +3625,7 @@
     "description": "通过文件目录掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-000039",
-      "os-q-000736",
-      "os-q-002925"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "文件目录"
     ],
@@ -4373,11 +3645,7 @@
     "description": "通过文件分配方式掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-001350",
-      "os-q-001277",
-      "os-q-001516"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "文件分配方式"
     ],
@@ -4397,11 +3665,7 @@
     "description": "通过空闲空间管理掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-002509",
-      "os-q-000153",
-      "os-q-000689"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "空闲空间管理"
     ],
@@ -4421,11 +3685,7 @@
     "description": "通过磁盘调度掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-003668",
-      "os-q-002767",
-      "os-q-002947"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "磁盘调度"
     ],
@@ -4445,11 +3705,7 @@
     "description": "通过Linux权限掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-002991",
-      "os-q-002695",
-      "os-q-001410"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Linux权限"
     ],
@@ -4469,11 +3725,7 @@
     "description": "通过Shell命令掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-003594",
-      "os-q-000861",
-      "os-q-000288"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Shell命令"
     ],
@@ -4493,11 +3745,7 @@
     "description": "通过期末综合题掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-002958",
-      "os-q-000123",
-      "os-q-002180"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "期末综合题"
     ],
@@ -4517,11 +3765,7 @@
     "description": "通过408OS综合题掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-002080",
-      "os-q-000919",
-      "os-q-002819"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "408OS综合题"
     ],
@@ -4541,11 +3785,7 @@
     "description": "通过进程状态转换掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-000974",
-      "os-q-000475",
-      "os-q-002223"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "进程状态转换"
     ],
@@ -4565,11 +3805,7 @@
     "description": "通过进程调度掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-002429",
-      "os-q-000249",
-      "os-q-001473"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "进程调度"
     ],
@@ -4589,11 +3825,7 @@
     "description": "通过FCFS调度掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-001755",
-      "os-q-000693",
-      "os-q-001256"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "FCFS调度"
     ],
@@ -4613,11 +3845,7 @@
     "description": "通过SJF调度掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-000354",
-      "os-q-001239",
-      "os-q-001492"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "SJF调度"
     ],
@@ -4637,11 +3865,7 @@
     "description": "通过时间片轮转掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-001769",
-      "os-q-001964",
-      "os-q-001796"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "时间片轮转"
     ],
@@ -4661,11 +3885,7 @@
     "description": "通过多级反馈队列掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-000320",
-      "os-q-001903",
-      "os-q-003033"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "多级反馈队列"
     ],
@@ -4685,11 +3905,7 @@
     "description": "通过生产者消费者掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-003307",
-      "os-q-000063",
-      "os-q-003388"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "生产者消费者"
     ],
@@ -4709,11 +3925,7 @@
     "description": "通过读者写者掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-000334",
-      "os-q-001596",
-      "os-q-001312"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "读者写者"
     ],
@@ -4733,11 +3945,7 @@
     "description": "通过哲学家进餐掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-001600",
-      "os-q-000708",
-      "os-q-002858"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "哲学家进餐"
     ],
@@ -4757,11 +3965,7 @@
     "description": "通过信号量PV分析掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-003347",
-      "os-q-002307",
-      "os-q-000795"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "信号量PV分析"
     ],
@@ -4781,11 +3985,7 @@
     "description": "通过死锁判断掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-001722",
-      "os-q-001933",
-      "os-q-002103"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "死锁判断"
     ],
@@ -4805,11 +4005,7 @@
     "description": "通过死锁预防掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-003162",
-      "os-q-002489",
-      "os-q-003143"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "死锁预防"
     ],
@@ -4829,11 +4025,7 @@
     "description": "通过银行家算法掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-000877",
-      "os-q-003607",
-      "os-q-002124"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "银行家算法"
     ],
@@ -4853,11 +4045,7 @@
     "description": "通过分页地址转换掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-000865",
-      "os-q-002976",
-      "os-q-002753"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "分页地址转换"
     ],
@@ -4877,11 +4065,7 @@
     "description": "通过页表查询掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-000590",
-      "os-q-000763",
-      "os-q-000478"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "页表查询"
     ],
@@ -4901,11 +4085,7 @@
     "description": "通过TLB命中率掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-003335",
-      "os-q-000576",
-      "os-q-000168"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "TLB命中率"
     ],
@@ -4925,11 +4105,7 @@
     "description": "通过FIFO页面置换掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-001110",
-      "os-q-000666",
-      "os-q-003586"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "FIFO页面置换"
     ],
@@ -4949,11 +4125,7 @@
     "description": "通过LRU页面置换掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-001537",
-      "os-q-001587",
-      "os-q-002599"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "LRU页面置换"
     ],
@@ -4973,11 +4145,7 @@
     "description": "通过CLOCK页面置换掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-003052",
-      "os-q-002204",
-      "os-q-001840"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "CLOCK页面置换"
     ],
@@ -4997,11 +4165,7 @@
     "description": "通过文件目录掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-003044",
-      "os-q-001600",
-      "os-q-003662"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "文件目录"
     ],
@@ -5021,11 +4185,7 @@
     "description": "通过文件分配方式掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-001951",
-      "os-q-002526",
-      "os-q-002838"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "文件分配方式"
     ],
@@ -5045,11 +4205,7 @@
     "description": "通过空闲空间管理掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-001284",
-      "os-q-000108",
-      "os-q-001841"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "空闲空间管理"
     ],
@@ -5069,11 +4225,7 @@
     "description": "通过磁盘调度掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-001533",
-      "os-q-000156",
-      "os-q-003378"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "磁盘调度"
     ],
@@ -5093,11 +4245,7 @@
     "description": "通过Linux权限掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-001169",
-      "os-q-002013",
-      "os-q-003380"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Linux权限"
     ],
@@ -5117,11 +4265,7 @@
     "description": "通过Shell命令掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-000332",
-      "os-q-002090",
-      "os-q-002894"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Shell命令"
     ],
@@ -5141,11 +4285,7 @@
     "description": "通过期末综合题掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-001521",
-      "os-q-001933",
-      "os-q-001910"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "期末综合题"
     ],
@@ -5165,11 +4305,7 @@
     "description": "通过408OS综合题掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-002676",
-      "os-q-000333",
-      "os-q-003092"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "408OS综合题"
     ],
@@ -5189,11 +4325,7 @@
     "description": "通过进程状态转换掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-000223",
-      "os-q-001992",
-      "os-q-000105"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "进程状态转换"
     ],
@@ -5213,11 +4345,7 @@
     "description": "通过进程调度掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-003321",
-      "os-q-000026",
-      "os-q-000088"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "进程调度"
     ],
@@ -5237,11 +4365,7 @@
     "description": "通过FCFS调度掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-001897",
-      "os-q-003021",
-      "os-q-000137"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "FCFS调度"
     ],
@@ -5261,11 +4385,7 @@
     "description": "通过SJF调度掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-001684",
-      "os-q-001863",
-      "os-q-002553"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "SJF调度"
     ],
@@ -5285,11 +4405,7 @@
     "description": "通过时间片轮转掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-001211",
-      "os-q-002803",
-      "os-q-000886"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "时间片轮转"
     ],
@@ -5309,11 +4425,7 @@
     "description": "通过多级反馈队列掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-001274",
-      "os-q-000128",
-      "os-q-003302"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "多级反馈队列"
     ],
@@ -5333,11 +4445,7 @@
     "description": "通过生产者消费者掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-003672",
-      "os-q-002528",
-      "os-q-002627"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "生产者消费者"
     ],
@@ -5357,11 +4465,7 @@
     "description": "通过读者写者掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-003623",
-      "os-q-000262",
-      "os-q-002163"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "读者写者"
     ],
@@ -5381,11 +4485,7 @@
     "description": "通过哲学家进餐掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-001563",
-      "os-q-003200",
-      "os-q-001887"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "哲学家进餐"
     ],
@@ -5405,11 +4505,7 @@
     "description": "通过信号量PV分析掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-000161",
-      "os-q-003562",
-      "os-q-002340"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "信号量PV分析"
     ],
@@ -5429,11 +4525,7 @@
     "description": "通过死锁判断掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-000753",
-      "os-q-000354",
-      "os-q-003679"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "死锁判断"
     ],
@@ -5453,11 +4545,7 @@
     "description": "通过死锁预防掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-000507",
-      "os-q-002383",
-      "os-q-002775"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "死锁预防"
     ],
@@ -5477,11 +4565,7 @@
     "description": "通过银行家算法掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-002883",
-      "os-q-000420",
-      "os-q-001075"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "银行家算法"
     ],
@@ -5501,11 +4585,7 @@
     "description": "通过分页地址转换掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-003556",
-      "os-q-000153",
-      "os-q-002168"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "分页地址转换"
     ],
@@ -5525,11 +4605,7 @@
     "description": "通过页表查询掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-001005",
-      "os-q-002304",
-      "os-q-001185"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "页表查询"
     ],
@@ -5549,11 +4625,7 @@
     "description": "通过TLB命中率掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-001750",
-      "os-q-002864",
-      "os-q-000542"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "TLB命中率"
     ],
@@ -5573,11 +4645,7 @@
     "description": "通过FIFO页面置换掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-003297",
-      "os-q-002639",
-      "os-q-000439"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "FIFO页面置换"
     ],
@@ -5597,11 +4665,7 @@
     "description": "通过LRU页面置换掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-001059",
-      "os-q-002396",
-      "os-q-000548"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "LRU页面置换"
     ],
@@ -5621,11 +4685,7 @@
     "description": "通过CLOCK页面置换掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-002855",
-      "os-q-001982",
-      "os-q-002874"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "CLOCK页面置换"
     ],
@@ -5645,11 +4705,7 @@
     "description": "通过文件目录掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-002256",
-      "os-q-002464",
-      "os-q-000262"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "文件目录"
     ],
@@ -5669,11 +4725,7 @@
     "description": "通过文件分配方式掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-002281",
-      "os-q-000764",
-      "os-q-002482"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "文件分配方式"
     ],
@@ -5693,11 +4745,7 @@
     "description": "通过空闲空间管理掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-002382",
-      "os-q-002195",
-      "os-q-001459"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "空闲空间管理"
     ],
@@ -5717,11 +4765,7 @@
     "description": "通过磁盘调度掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-002859",
-      "os-q-002586",
-      "os-q-002889"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "磁盘调度"
     ],
@@ -5741,11 +4785,7 @@
     "description": "通过Linux权限掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-000314",
-      "os-q-002138",
-      "os-q-002382"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Linux权限"
     ],
@@ -5765,11 +4805,7 @@
     "description": "通过Shell命令掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-000182",
-      "os-q-002939",
-      "os-q-002342"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "Shell命令"
     ],
@@ -5789,11 +4825,7 @@
     "description": "通过期末综合题掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-003396",
-      "os-q-002527",
-      "os-q-000814"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "期末综合题"
     ],
@@ -5813,11 +4845,7 @@
     "description": "通过408OS综合题掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-000246",
-      "os-q-002427",
-      "os-q-000834"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "408OS综合题"
     ],
@@ -5837,11 +4865,7 @@
     "description": "通过进程状态转换掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-001615",
-      "os-q-003088",
-      "os-q-003319"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "进程状态转换"
     ],
@@ -5861,11 +4885,7 @@
     "description": "通过进程调度掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-000775",
-      "os-q-002087",
-      "os-q-003335"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "进程调度"
     ],
@@ -5885,11 +4905,7 @@
     "description": "通过FCFS调度掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-002544",
-      "os-q-001112",
-      "os-q-001427"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "FCFS调度"
     ],
@@ -5909,11 +4925,7 @@
     "description": "通过SJF调度掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-003669",
-      "os-q-000870",
-      "os-q-001557"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "SJF调度"
     ],
@@ -5933,11 +4945,7 @@
     "description": "通过时间片轮转掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-002795",
-      "os-q-000001",
-      "os-q-002979"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "时间片轮转"
     ],
@@ -5957,11 +4965,7 @@
     "description": "通过多级反馈队列掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-002029",
-      "os-q-001836",
-      "os-q-002673"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "多级反馈队列"
     ],
@@ -5981,11 +4985,7 @@
     "description": "通过生产者消费者掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-002795",
-      "os-q-003049",
-      "os-q-000109"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "生产者消费者"
     ],
@@ -6005,11 +5005,7 @@
     "description": "通过读者写者掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-003345",
-      "os-q-003353",
-      "os-q-002131"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "读者写者"
     ],
@@ -6029,11 +5025,7 @@
     "description": "通过哲学家进餐掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-000182",
-      "os-q-000885",
-      "os-q-003333"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "哲学家进餐"
     ],
@@ -6053,11 +5045,7 @@
     "description": "通过信号量PV分析掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-003567",
-      "os-q-001284",
-      "os-q-002932"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "信号量PV分析"
     ],
@@ -6077,11 +5065,7 @@
     "description": "通过死锁判断掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-002034",
-      "os-q-002319",
-      "os-q-000291"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "死锁判断"
     ],
@@ -6101,11 +5085,7 @@
     "description": "通过死锁预防掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-001329",
-      "os-q-003460",
-      "os-q-002344"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "死锁预防"
     ],
@@ -6125,11 +5105,7 @@
     "description": "通过银行家算法掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-002240",
-      "os-q-000338",
-      "os-q-002109"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "银行家算法"
     ],
@@ -6149,11 +5125,7 @@
     "description": "通过分页地址转换掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-000890",
-      "os-q-003322",
-      "os-q-001862"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "分页地址转换"
     ],
@@ -6173,11 +5145,7 @@
     "description": "通过页表查询掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-000918",
-      "os-q-000087",
-      "os-q-003348"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "页表查询"
     ],
@@ -6197,11 +5165,7 @@
     "description": "通过TLB命中率掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-002001",
-      "os-q-001375",
-      "os-q-003181"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "TLB命中率"
     ],
@@ -6221,11 +5185,7 @@
     "description": "通过FIFO页面置换掌握操作系统方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "os-q-001402",
-      "os-q-001598",
-      "os-q-001039"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "FIFO页面置换"
     ],
